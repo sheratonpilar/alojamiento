@@ -3,13 +3,13 @@
   "id": "spa",
   "nombre": "Health & Spa",
   "tema": "spa",
-  "logo": "hotel.svg",
+  "logo": "hotel-spa.svg",
   "idiomas": [
    "es",
    "en",
    "pt"
   ],
-  "actualizado": "2026-08-29T00:00:00.000Z",
+  "actualizado": "2026-09-14T17:37:38.350Z",
   "ver_tambien": "",
   "pie": {
    "es": "Con reserva previa sin excepción y según disponibilidad. Tel: (0230) 438 5000 / Reservas Health Club: (0230) 438 5070 · WhatsApp: +54 9 11 3135 3014. healthclub@pilar.sheraton.com.ar",
@@ -68,7 +68,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room.",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos."
      },
-     "precio": 135000.0,
+     "precio": 1,
      "tags": [
       "MAYORES_16"
      ]
@@ -85,7 +85,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room.",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos."
      },
-     "precio": 165000.0,
+     "precio": 165000,
      "tags": [
       "MAYORES_16"
      ]
@@ -102,7 +102,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. The hydromassage, ice bath, saunas, gym, massages and facial treatments are for guests 16 and older only. Children may access the Health & Spa and games room until 5 pm; afterwards they may continue enjoying the hotel's other facilities. The pool table in the games room is for guests 16 and older only.",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. A hidromassagem, o ice bath, as saunas, a academia, as massagens e os tratamentos faciais são exclusivos para maiores de 16 anos. Os menores podem acessar o Health & Spa e a sala de jogos até as 17h; depois desse horário, podem continuar aproveitando as demais instalações do hotel. A mesa de sinuca da sala de jogos é de uso exclusivo para maiores de 16 anos."
      },
-     "precio": 67500.0,
+     "precio": 67500,
      "tags": []
     },
     {
@@ -117,7 +117,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. The hydromassage, ice bath, saunas, gym, massages and facial treatments are for guests 16 and older only. Children may access the Health & Spa and games room until 5 pm; afterwards they may continue enjoying the hotel's other facilities. The pool table in the games room is for guests 16 and older only.",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. A hidromassagem, o ice bath, as saunas, a academia, as massagens e os tratamentos faciais são exclusivos para maiores de 16 anos. Os menores podem acessar o Health & Spa e a sala de jogos até as 17h; depois desse horário, podem continuar aproveitando as demais instalações do hotel. A mesa de sinuca da sala de jogos é de uso exclusivo para maiores de 16 anos."
      },
-     "precio": 82500.0,
+     "precio": 82500,
      "tags": []
     },
     {
@@ -132,7 +132,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 25-minute massage of your choice. An afternoon snack at the Lobby Bar (hot beverage, orange juice, toast or medialuna).",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 25' à escolha. Um lanche no Lobby Bar (bebida quente, suco de laranja, torradas ou medialuna)."
      },
-     "precio": 165000.0,
+     "precio": 165000,
      "tags": [
       "MAYORES_16"
      ]
@@ -149,7 +149,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 25-minute massage of your choice. An afternoon snack at the Lobby Bar (hot beverage, orange juice, toast or medialuna).",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 25' à escolha. Um lanche no Lobby Bar (bebida quente, suco de laranja, torradas ou medialuna)."
      },
-     "precio": 230000.0,
+     "precio": 230000,
      "tags": [
       "MAYORES_16"
      ]
@@ -166,7 +166,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 50-minute full-body muscle-relaxing massage. Lunch at the Lobby Bar (choice of menu: traditional Caesar salad or braised ribeye with wine cream sauce, potato crown with mushrooms and roasted cherry tomatoes; americana ice cream with red berries, a soft drink and coffee).",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 50' Integral Descontraturante. Um almoço no Lobby Bar (menu à escolha: Caesar tradicional ou bife ancho grelhado, creme de vinho, coroa de batata com cogumelos e tomates cereja assados; sorvete americana com frutas vermelhas, refrigerante e café)."
      },
-     "precio": 240000.0,
+     "precio": 240000,
      "tags": [
       "MAYORES_16"
      ]
@@ -183,7 +183,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 50-minute full-body muscle-relaxing massage. Lunch at the Lobby Bar (choice of menu: traditional Caesar salad or braised ribeye with wine cream sauce, potato crown with mushrooms and roasted cherry tomatoes; americana ice cream with red berries, a soft drink and coffee).",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 50' Integral Descontraturante. Um almoço no Lobby Bar (menu à escolha: Caesar tradicional ou bife ancho grelhado, creme de vinho, coroa de batata com cogumelos e tomates cereja assados; sorvete americana com frutas vermelhas, refrigerante e café)."
      },
-     "precio": 300000.0,
+     "precio": 300000,
      "tags": [
       "MAYORES_16"
      ]
@@ -200,7 +200,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 50-minute relaxing or muscle-relaxing massage. A 25-minute facial with gold mask and Argan stem cells. Breakfast or afternoon snack at the Lobby Bar (hot beverage, orange juice, toast or medialuna).",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 50' relaxante ou descontraturante. Facial de 25' com máscara de ouro e células-tronco de argan. Café da manhã ou lanche no Lobby Bar (bebida quente, suco de laranja, torradas ou medialuna)."
      },
-     "precio": 255000.0,
+     "precio": 255000,
      "tags": [
       "MAYORES_16"
      ]
@@ -217,7 +217,7 @@
       "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 50-minute relaxing or muscle-relaxing massage. A 25-minute facial with gold mask and Argan stem cells. Breakfast or afternoon snack at the Lobby Bar (hot beverage, orange juice, toast or medialuna).",
       "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 50' relaxante ou descontraturante. Facial de 25' com máscara de ouro e células-tronco de argan. Café da manhã ou lanche no Lobby Bar (bebida quente, suco de laranja, torradas ou medialuna)."
      },
-     "precio": 325000.0,
+     "precio": 325000,
      "tags": [
       "MAYORES_16"
      ]
@@ -250,7 +250,7 @@
       "en": "A muscle-relaxing, soothing massage that produces overall wellbeing and reduces stress.",
       "pt": "Massagem descontraturante e relaxante que proporciona bem-estar geral e reduz o estresse."
      },
-     "precio": 135000.0,
+     "precio": 135000,
      "tags": []
     },
     {
@@ -265,7 +265,7 @@
       "en": "Enjoy a relaxing, muscle-relaxing massage together. A shared experience.",
       "pt": "Para desfrutar em dupla de uma massagem descontraturante e relaxante. Uma experiência compartilhada."
      },
-     "precio": 210000.0,
+     "precio": 210000,
      "tags": []
     },
     {
@@ -280,7 +280,7 @@
       "en": "A massage of relaxing techniques performed with essential aromatic oils, engaging both touch and scent.",
       "pt": "Massagem com manobras relaxantes realizada com óleos aromáticos essenciais, proporcionando sensações táteis e olfativas."
      },
-     "precio": 130000.0,
+     "precio": 130000,
      "tags": []
     },
     {
@@ -295,7 +295,7 @@
       "en": "A body exfoliation and cleanse that removes dead skin cells, leaving skin smooth and refreshed.",
       "pt": "Esfoliação e limpeza corporal que remove células mortas, deixando a pele macia e revitalizada."
      },
-     "precio": 115000.0,
+     "precio": 115000,
      "tags": []
     },
     {
@@ -310,7 +310,7 @@
       "en": "A deep-tissue massage that releases muscle tension and restores muscle structure.",
       "pt": "Massagem de manobras profundas para eliminar contraturas e recuperar a estrutura muscular."
      },
-     "precio": 115000.0,
+     "precio": 115000,
      "tags": []
     },
     {
@@ -325,7 +325,7 @@
       "en": "A truly relaxing massage. Improves blood circulation in the face, neck and scalp, releasing tension and mobilizing skin tissue.",
       "pt": "Massagem relaxante por excelência. Melhora a circulação sanguínea do rosto, pescoço e couro cabeludo, reduzindo e eliminando tensões e mobilizando os tecidos da pele."
      },
-     "precio": 95000.0,
+     "precio": 95000,
      "tags": []
     },
     {
@@ -340,7 +340,7 @@
       "en": "A deep-tissue massage that releases muscle tension and restores muscle structure.",
       "pt": "Massagem de manobras profundas, para eliminar contraturas e recuperar a estrutura muscular."
      },
-     "precio": 95000.0,
+     "precio": 95000,
      "tags": []
     },
     {
@@ -355,7 +355,7 @@
       "en": "A deeply relaxing massage that eases tension felt throughout different parts of the body.",
       "pt": "Massagem extremamente relaxante para aliviar tensões que repercutem em diferentes partes do corpo."
      },
-     "precio": 95000.0,
+     "precio": 95000,
      "tags": []
     }
    ]
@@ -386,7 +386,7 @@
       "en": "A deep skin cleanse with peeling and diamond-microdermabrasion exfoliation, removing dead cells, extracting impurities, high-frequency treatment, hydration and/or nourishment, and a mask suited to your skin type. Oxygenates the skin, promoting natural collagen and elastin production and boosting the effectiveness of active cosmetic ingredients.",
       "pt": "Limpeza profunda da pele, peeling, esfoliação profunda com microcristais, eliminando células mortas, extração de impurezas, alta frequência, hidratação e/ou nutrição e máscara de acordo com o tipo de pele. Oxigena a pele, estimulando a produção natural de colágeno e elastina e potencializando os princípios ativos dos cosméticos."
      },
-     "precio": 135000.0,
+     "precio": 135000,
      "tags": []
     },
     {
@@ -401,7 +401,7 @@
       "en": "A deep skin cleanse with impurity extraction, high-frequency treatment, facial massage and a mask suited to each skin type. Softens the skin, enhances facial radiance and restores its vital functions.",
       "pt": "Limpeza profunda da pele, extração de impurezas, alta frequência, massagem facial e aplicação de máscara apropriada para cada tipo de pele. Suaviza a pele, aumenta a luminosidade do rosto e recupera as funções vitais."
      },
-     "precio": 125000.0,
+     "precio": 125000,
      "tags": []
     },
     {
@@ -416,7 +416,7 @@
       "en": "Deep exfoliation with micro-crystals that removes dead cells. Renews the skin and softens expression lines, with deep oxygenation for finer, smoother, more radiant skin.",
       "pt": "Esfoliação profunda com microcristais, eliminando células mortas. Renova a pele, atenuando linhas de expressão, com oxigenação profunda para uma pele mais fina, macia e radiante."
      },
-     "precio": 115000.0,
+     "precio": 115000,
      "tags": []
     },
     {
@@ -431,7 +431,7 @@
       "en": "Recommended for mature skin or skin that has lost firmness. Revitalizes and stimulates skin regeneration. Antioxidant. Minimizes wrinkles and expression lines, with a strong illuminating and firming effect.",
       "pt": "Recomendada para peles envelhecidas ou com perda de firmeza. Revitaliza e estimula a regeneração da pele. É antioxidante. Minimiza rugas e linhas de expressão. Tem um grande efeito iluminador e tensor."
      },
-     "precio": 105000.0,
+     "precio": 105000,
      "tags": []
     },
     {
@@ -446,7 +446,7 @@
       "en": "An anti-aging, filling effect that softens wrinkles. A long-lasting, effective moisturizer that hydrates the skin in its deeper layers, leaving it more luminous and supple.",
       "pt": "Efeito antiage com efeito de preenchimento que suaviza as rugas. Hidratante eficaz de longa duração, hidratando a pele em camadas profundas. Deixa a pele mais luminosa e flexível."
      },
-     "precio": 105000.0,
+     "precio": 105000,
      "tags": []
     }
    ]
@@ -477,7 +477,7 @@
       "en": "Unlimited access to all facilities every day.",
       "pt": "Acesso ilimitado a todas as instalações, todos os dias."
      },
-     "precio": 330000.0,
+     "precio": 330000,
      "tags": []
     },
     {
@@ -492,7 +492,7 @@
       "en": "Unlimited access to all facilities every day.",
       "pt": "Acesso ilimitado a todas as instalações, todos os dias."
      },
-     "precio": 720000.0,
+     "precio": 720000,
      "tags": []
     },
     {
@@ -507,7 +507,7 @@
       "en": "Unlimited access to all facilities every day. *Can be paid in 3 interest-free installments.",
       "pt": "Acesso ilimitado a todas as instalações, todos os dias. *Pode ser pago em 3 parcelas sem juros."
      },
-     "precio": 1200000.0,
+     "precio": 1200000,
      "tags": []
     },
     {
@@ -522,7 +522,7 @@
       "en": "Unlimited access to all facilities every day. *Can be paid in 3 interest-free installments.",
       "pt": "Acesso ilimitado a todas as instalações, todos os dias. *Pode ser pago em 3 parcelas sem juros."
      },
-     "precio": 2100000.0,
+     "precio": 2100000,
      "tags": []
     }
    ]
