@@ -9,12 +9,10 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-14T17:40:05.584Z",
+  "actualizado": "2026-09-21T13:40:17.307Z",
   "ver_tambien": "",
   "pie": {
-   "es": "Con reserva previa sin excepción y según disponibilidad. Tel: (0230) 438 5000 / Reservas Health Club: (0230) 438 5070 · WhatsApp: +54 9 11 3135 3014. healthclub@pilar.sheraton.com.ar",
-   "en": "By advance reservation only, subject to availability. Tel: (0230) 438 5000 / Health Club Reservations: (0230) 438 5070 · WhatsApp: +54 9 11 3135 3014. healthclub@pilar.sheraton.com.ar",
-   "pt": "Mediante reserva prévia, sem exceção, e conforme disponibilidade. Tel: (0230) 438 5000 / Reservas Health Club: (0230) 438 5070 · WhatsApp: +54 9 11 3135 3014. healthclub@pilar.sheraton.com.ar"
+   "es": "Tarifas expresadas en pesos argentinos. Incluyen IVA e impuestos correspondientes.\nTel: (0230) 438 5000 / Reservas Health Club: (0230) 438 5070 · WhatsApp: +54 9 11 3135 3014. healthclub@pilar.sheraton.com.ar"
   }
  },
  "tags": {
@@ -49,11 +47,9 @@
     "en": "Spa Days",
     "pt": "Dias de Spa"
    },
-   "foto": "",
+   "foto": "dias-de-spa.jpg",
    "nota": {
-    "es": "Con reserva previa sin excepción y según disponibilidad.",
-    "en": "By advance reservation only, subject to availability.",
-    "pt": "Mediante reserva prévia, sem exceção, e conforme disponibilidade."
+    "es": "Con reserva previa sin excepción y según disponibilidad."
    },
    "items": [
     {
@@ -231,11 +227,9 @@
     "en": "Massages",
     "pt": "Massagens"
    },
-   "foto": "",
+   "foto": "masajes.jpg",
    "nota": {
-    "es": "Presentarse 15´ antes del horario de reserva para poder aprovechar su tiempo de masaje. Política de cancelación: para cancelar un masaje ya reservado, avisar por lo menos 2 horas antes de la hora reservada; caso contrario se aplicará el 50% del valor del mismo.",
-    "en": "Please arrive 15 minutes before your reservation time to make the most of your massage. Cancellation policy: to cancel a booked massage, please notify us at least 2 hours in advance; otherwise, 50% of the treatment value will be charged.",
-    "pt": "Chegue com 15 minutos de antecedência ao horário reservado para aproveitar ao máximo sua massagem. Política de cancelamento: para cancelar uma massagem já reservada, avise com pelo menos 2 horas de antecedência; caso contrário, será cobrado 50% do valor do serviço."
+    "es": "Presentarse 15´ antes del horario de reserva para poder aprovechar su tiempo de masaje. Política de cancelación: para cancelar un masaje ya reservado, avisar por lo menos 2 horas antes de la hora reservada; caso contrario se aplicará el 50% del valor del mismo."
    },
    "items": [
     {
@@ -367,11 +361,9 @@
     "en": "Facial Treatments",
     "pt": "Tratamentos Faciais"
    },
-   "foto": "",
+   "foto": "tratamientos-faciales.jpg",
    "nota": {
-    "es": "Con reserva previa y según disponibilidad. Incluye acceso al sauna, baños de vapor y salas de relax.",
-    "en": "By advance reservation and subject to availability. Includes access to the sauna, steam baths and relaxation rooms.",
-    "pt": "Mediante reserva prévia e conforme disponibilidade. Inclui acesso à sauna, banhos de vapor e salas de relaxamento."
+    "es": "Con reserva previa y según disponibilidad. Incluye acceso al sauna, baños de vapor y salas de relax."
    },
    "items": [
     {
@@ -458,11 +450,9 @@
     "en": "Memberships",
     "pt": "Planos de Associação"
    },
-   "foto": "",
+   "foto": "membresia.jpg",
    "nota": {
-    "es": "Acceso ilimitado a todas las instalaciones todos los días. Los abonos semestrales y anuales pueden abonarse en 3 cuotas sin interés. Beneficios para socios: toallas, batas y lockers, Wi-Fi, estacionamiento, 15% off en masajes, 10% off en pases de días de spa, 15% off en restaurantes, 10% off en alojamiento, 20% off en peluquería Hairspray, 20% off en lavandería. Horarios: lunes a viernes 7 a 22 hs, sábados 8 a 22 hs, domingos y feriados 8 a 20 hs. Reservas: Tel (0230) 438 5070 · WhatsApp +54 9 11 3135 3014.",
-    "en": "Unlimited access to all facilities every day. Semi-annual and annual plans can be paid in 3 interest-free installments. Member benefits: towels, robes and lockers, Wi-Fi, parking, 15% off massages, 10% off Spa Day passes, 15% off restaurants, 10% off accommodation, 20% off at Hairspray hair salon, 20% off laundry. Hours: Monday to Friday 7 am–10 pm, Saturdays 8 am–10 pm, Sundays and holidays 8 am–8 pm. Reservations: Tel (0230) 438 5070 · WhatsApp +54 9 11 3135 3014.",
-    "pt": "Acesso ilimitado a todas as instalações, todos os dias. Os planos semestral e anual podem ser pagos em 3 parcelas sem juros. Benefícios para associados: toalhas, roupões e armários, Wi-Fi, estacionamento, 15% de desconto em massagens, 10% de desconto em Day Spa, 15% de desconto em restaurantes, 10% de desconto em hospedagem, 20% de desconto no salão Hairspray, 20% de desconto na lavanderia. Horários: segunda a sexta das 7h às 22h, sábados das 8h às 22h, domingos e feriados das 8h às 20h. Reservas: Tel (0230) 438 5070 · WhatsApp +54 9 11 3135 3014."
+    "es": "Acceso ilimitado a todas las instalaciones todos los días. Los abonos semestrales y anuales pueden abonarse en 3 cuotas sin interés. Beneficios para socios: toallas, batas y lockers, Wi-Fi, estacionamiento, 15% off en masajes, 10% off en pases de días de spa, 15% off en restaurantes, 10% off en alojamiento, 20% off en peluquería Hairspray, 20% off en lavandería. Horarios: lunes a viernes 7 a 22 hs, sábados 8 a 22 hs, domingos y feriados 8 a 20 hs. Reservas: Tel (0230) 438 5070 · WhatsApp +54 9 11 3135 3014."
    },
    "items": [
     {
