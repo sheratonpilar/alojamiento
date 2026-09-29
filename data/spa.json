@@ -1,7 +1,7 @@
 {
  "carta": {
-  "id": "spa",
-  "nombre": "Health & Spa",
+  "id": "alojamiento",
+  "nombre": "Alojamiento",
   "tema": "spa",
   "logo": "hotel-spa.svg",
   "idiomas": [
@@ -9,10 +9,10 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-29T11:45:13.362Z",
+  "actualizado": "2026-09-29T13:37:23.626Z",
   "ver_tambien": "",
   "pie": {
-   "es": "Tarifas expresadas en pesos argentinos. Incluyen IVA e impuestos correspondientes.\nTel: (0230) 438 5000 / Reservas Health Club: (0230) 438 5070 · WhatsApp: +54 9 11 3135 3014. healthclub@pilar.sheraton.com.ar"
+   "es": "Tarifas expresadas en pesos argentinos, de cupo limitado y sujeto a modificación sin previo aviso.\nTodas las tarifas son + IVA \nPanamericana Km. 49,5. Pilar\nReservas: (0230) 438 5055/6 · WhatsApp: +54 9 11 3135-3098 reservas@pilar.sheraton.com.ar"
   }
  },
  "tags": {
@@ -53,7 +53,7 @@
     {
      "id": "escapada-dias-semana-ago-sep",
      "nombre": {
-      "es": "Vigencia Agosto–Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026"
      },
      "nota": {},
      "items": [
@@ -89,7 +89,7 @@
     {
      "id": "escapada-dias-semana-oct-dic",
      "nombre": {
-      "es": "Vigencia Octubre–23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
      },
      "nota": {},
      "items": [
@@ -125,350 +125,6 @@
    ]
   },
   {
-   "id": "escapada-dias-semana-ago-sep",
-   "nombre": {
-    "es": "Vigencia Agosto–Septiembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-dias-semana-ago-sep-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 280000,
-     "tags": []
-    },
-    {
-     "id": "escapada-dias-semana-ago-sep-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 330000,
-     "tags": []
-    },
-    {
-     "id": "escapada-dias-semana-ago-sep-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 560000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-fin-semana-ago-sep",
-   "nombre": {
-    "es": "Vigencia Agosto–Septiembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-fin-semana-ago-sep-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 340000,
-     "tags": []
-    },
-    {
-     "id": "escapada-fin-semana-ago-sep-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 400000,
-     "tags": []
-    },
-    {
-     "id": "escapada-fin-semana-ago-sep-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 680000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-cena-1n-ago-sep",
-   "nombre": {
-    "es": "Vigencia Agosto–Septiembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-cena-1n-ago-sep-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 440000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-1n-ago-sep-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 510000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-1n-ago-sep-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 840000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-cena-2n-ago-sep",
-   "nombre": {
-    "es": "Vigencia Agosto–Septiembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-cena-2n-ago-sep-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 680000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-2n-ago-sep-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 800000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-2n-ago-sep-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 1360000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-cena-3n-ago-sep",
-   "nombre": {
-    "es": "Vigencia Agosto–Septiembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-cena-3n-ago-sep-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 960000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-3n-ago-sep-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 1130000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-3n-ago-sep-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 1920000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "noche-romantica-ago-sep",
-   "nombre": {
-    "es": "Vigencia Agosto–Septiembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "noche-romantica-ago-sep-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 480000,
-     "tags": []
-    },
-    {
-     "id": "noche-romantica-ago-sep-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 540000,
-     "tags": []
-    },
-    {
-     "id": "noche-romantica-ago-sep-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 940000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "noche-inolvidable-ago-sep",
-   "nombre": {
-    "es": "Vigencia Agosto–Septiembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "noche-inolvidable-ago-sep-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 380000,
-     "tags": []
-    },
-    {
-     "id": "noche-inolvidable-ago-sep-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 440000,
-     "tags": []
-    },
-    {
-     "id": "noche-inolvidable-ago-sep-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 740000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-amigas-ago-sep",
-   "nombre": {
-    "es": "Vigencia Agosto–Septiembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-amigas-ago-sep-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas"
-     },
-     "descripcion": {},
-     "precio": 430000,
-     "tags": []
-    },
-    {
-     "id": "escapada-amigas-ago-sep-2",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas"
-     },
-     "descripcion": {},
-     "precio": 650000,
-     "tags": []
-    },
-    {
-     "id": "escapada-amigas-ago-sep-3",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas"
-     },
-     "descripcion": {},
-     "precio": 515000,
-     "tags": []
-    },
-    {
-     "id": "escapada-amigas-ago-sep-4",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas"
-     },
-     "descripcion": {},
-     "precio": 710000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "finde-largo-octubre",
-   "nombre": {
-    "es": "Octubre — Viernes 9 al Lunes 12"
-   },
-   "foto": "",
-   "nota": {
-    "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs lunes 12/10."
-   },
-   "items": [
-    {
-     "id": "finde-largo-octubre-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 380000,
-     "tags": []
-    },
-    {
-     "id": "finde-largo-octubre-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 440000,
-     "tags": []
-    },
-    {
-     "id": "finde-largo-octubre-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 750000,
-     "tags": []
-    }
-   ]
-  },
-  {
    "id": "escapada-fin-semana",
    "nombre": {
     "es": "Escapada de Fin de Semana"
@@ -481,7 +137,7 @@
     {
      "id": "escapada-fin-semana-ago-sep",
      "nombre": {
-      "es": "Vigencia Agosto–Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026"
      },
      "nota": {},
      "items": [
@@ -517,7 +173,7 @@
     {
      "id": "escapada-fin-semana-oct-dic",
      "nombre": {
-      "es": "Vigencia Octubre–23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
      },
      "nota": {},
      "items": [
@@ -553,350 +209,6 @@
    ]
   },
   {
-   "id": "escapada-dias-semana-oct-dic",
-   "nombre": {
-    "es": "Vigencia Octubre–23 Diciembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-dias-semana-oct-dic-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 300000,
-     "tags": []
-    },
-    {
-     "id": "escapada-dias-semana-oct-dic-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 360000,
-     "tags": []
-    },
-    {
-     "id": "escapada-dias-semana-oct-dic-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 600000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-fin-semana-oct-dic",
-   "nombre": {
-    "es": "Vigencia Octubre–23 Diciembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-fin-semana-oct-dic-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 380000,
-     "tags": []
-    },
-    {
-     "id": "escapada-fin-semana-oct-dic-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 440000,
-     "tags": []
-    },
-    {
-     "id": "escapada-fin-semana-oct-dic-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 750000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-cena-1n-oct-dic",
-   "nombre": {
-    "es": "Vigencia Octubre–23 Diciembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-cena-1n-oct-dic-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 490000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-1n-oct-dic-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 560000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-1n-oct-dic-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 930000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-cena-2n-oct-dic",
-   "nombre": {
-    "es": "Vigencia Octubre–23 Diciembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-cena-2n-oct-dic-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 760000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-2n-oct-dic-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 880000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-2n-oct-dic-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 1500000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-cena-3n-oct-dic",
-   "nombre": {
-    "es": "Vigencia Octubre–23 Diciembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-cena-3n-oct-dic-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 1060000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-3n-oct-dic-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 1240000,
-     "tags": []
-    },
-    {
-     "id": "escapada-cena-3n-oct-dic-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 2100000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "noche-romantica-oct-dic",
-   "nombre": {
-    "es": "Vigencia Octubre–23 Diciembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "noche-romantica-oct-dic-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 530000,
-     "tags": []
-    },
-    {
-     "id": "noche-romantica-oct-dic-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 600000,
-     "tags": []
-    },
-    {
-     "id": "noche-romantica-oct-dic-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 1040000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "noche-inolvidable-oct-dic",
-   "nombre": {
-    "es": "Vigencia Octubre–23 Diciembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "noche-inolvidable-oct-dic-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 420000,
-     "tags": []
-    },
-    {
-     "id": "noche-inolvidable-oct-dic-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 490000,
-     "tags": []
-    },
-    {
-     "id": "noche-inolvidable-oct-dic-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 820000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "escapada-amigas-oct-dic",
-   "nombre": {
-    "es": "Vigencia Octubre–23 Diciembre 2026"
-   },
-   "foto": "",
-   "nota": {},
-   "items": [
-    {
-     "id": "escapada-amigas-oct-dic-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas"
-     },
-     "descripcion": {},
-     "precio": 480000,
-     "tags": []
-    },
-    {
-     "id": "escapada-amigas-oct-dic-2",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas"
-     },
-     "descripcion": {},
-     "precio": 720000,
-     "tags": []
-    },
-    {
-     "id": "escapada-amigas-oct-dic-3",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas"
-     },
-     "descripcion": {},
-     "precio": 570000,
-     "tags": []
-    },
-    {
-     "id": "escapada-amigas-oct-dic-4",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas"
-     },
-     "descripcion": {},
-     "precio": 790000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "finde-largo-noviembre",
-   "nombre": {
-    "es": "Noviembre — Viernes 20 al Lunes 23"
-   },
-   "foto": "",
-   "nota": {
-    "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs lunes 23/11."
-   },
-   "items": [
-    {
-     "id": "finde-largo-noviembre-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 380000,
-     "tags": []
-    },
-    {
-     "id": "finde-largo-noviembre-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 440000,
-     "tags": []
-    },
-    {
-     "id": "finde-largo-noviembre-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 750000,
-     "tags": []
-    }
-   ]
-  },
-  {
    "id": "escapada-fin-semana-cena-1n",
    "nombre": {
     "es": "Escapada Fin de Semana con Cena — 1 noche"
@@ -909,7 +221,7 @@
     {
      "id": "escapada-cena-1n-ago-sep",
      "nombre": {
-      "es": "Vigencia Agosto–Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026"
      },
      "nota": {},
      "items": [
@@ -945,7 +257,7 @@
     {
      "id": "escapada-cena-1n-oct-dic",
      "nombre": {
-      "es": "Vigencia Octubre–23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
      },
      "nota": {},
      "items": [
@@ -981,45 +293,6 @@
    ]
   },
   {
-   "id": "finde-largo-diciembre",
-   "nombre": {
-    "es": "Diciembre — Viernes 4 al Martes 8"
-   },
-   "foto": "",
-   "nota": {
-    "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs martes 08/12."
-   },
-   "items": [
-    {
-     "id": "finde-largo-diciembre-1",
-     "nombre": {
-      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 380000,
-     "tags": []
-    },
-    {
-     "id": "finde-largo-diciembre-2",
-     "nombre": {
-      "es": "Habitación de Lujo Vista Jardín (36 m²)"
-     },
-     "descripcion": {},
-     "precio": 440000,
-     "tags": []
-    },
-    {
-     "id": "finde-largo-diciembre-3",
-     "nombre": {
-      "es": "Habitación Suite — dos ambientes (72 m²)"
-     },
-     "descripcion": {},
-     "precio": 750000,
-     "tags": []
-    }
-   ]
-  },
-  {
    "id": "escapada-fin-semana-cena-2n",
    "nombre": {
     "es": "Escapada Fin de Semana con Cena — 2 noches"
@@ -1032,7 +305,7 @@
     {
      "id": "escapada-cena-2n-ago-sep",
      "nombre": {
-      "es": "Vigencia Agosto–Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026"
      },
      "nota": {},
      "items": [
@@ -1068,7 +341,7 @@
     {
      "id": "escapada-cena-2n-oct-dic",
      "nombre": {
-      "es": "Vigencia Octubre–23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
      },
      "nota": {},
      "items": [
@@ -1116,7 +389,7 @@
     {
      "id": "escapada-cena-3n-ago-sep",
      "nombre": {
-      "es": "Vigencia Agosto–Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026"
      },
      "nota": {},
      "items": [
@@ -1152,7 +425,7 @@
     {
      "id": "escapada-cena-3n-oct-dic",
      "nombre": {
-      "es": "Vigencia Octubre–23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
      },
      "nota": {},
      "items": [
@@ -1200,7 +473,7 @@
     {
      "id": "noche-romantica-ago-sep",
      "nombre": {
-      "es": "Vigencia Agosto–Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026"
      },
      "nota": {},
      "items": [
@@ -1236,7 +509,7 @@
     {
      "id": "noche-romantica-oct-dic",
      "nombre": {
-      "es": "Vigencia Octubre–23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
      },
      "nota": {},
      "items": [
@@ -1284,7 +557,7 @@
     {
      "id": "noche-inolvidable-ago-sep",
      "nombre": {
-      "es": "Vigencia Agosto–Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026"
      },
      "nota": {},
      "items": [
@@ -1320,7 +593,7 @@
     {
      "id": "noche-inolvidable-oct-dic",
      "nombre": {
-      "es": "Vigencia Octubre–23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
      },
      "nota": {},
      "items": [
@@ -1368,7 +641,7 @@
     {
      "id": "escapada-amigas-ago-sep",
      "nombre": {
-      "es": "Vigencia Agosto–Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026"
      },
      "nota": {},
      "items": [
@@ -1413,7 +686,7 @@
     {
      "id": "escapada-amigas-oct-dic",
      "nombre": {
-      "es": "Vigencia Octubre–23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
      },
      "nota": {},
      "items": [
@@ -1473,7 +746,7 @@
       "es": "Octubre — Viernes 9 al Lunes 12"
      },
      "nota": {
-      "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs lunes 12/10."
+      "es": "Tarifas por noche | Estadía con mínimo de 2 noches\nCheck In: 15hs. Check Out: 12hs | Late check out 16hs lunes 12/10."
      },
      "items": [
       {
@@ -1511,7 +784,7 @@
       "es": "Noviembre — Viernes 20 al Lunes 23"
      },
      "nota": {
-      "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs lunes 23/11."
+      "es": "Tarifas por noche | Estadía con mínimo de 2 noches\nCheck In: 15hs. Check Out: 12hs | Late check out 16hs lunes 23/11."
      },
      "items": [
       {
@@ -1549,7 +822,7 @@
       "es": "Diciembre — Viernes 4 al Martes 8"
      },
      "nota": {
-      "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs martes 08/12."
+      "es": "Tarifas por noche | Estadía con mínimo de 2 noches\nCheck In: 15hs. Check Out: 12hs | Late check out 16hs martes 08/12."
      },
      "items": [
       {
