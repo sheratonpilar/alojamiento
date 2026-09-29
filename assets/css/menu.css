@@ -1,13 +1,15 @@
 :root {
-  --bg: #F2EFE9;
-  --surface: #FBF9F5;
-  --surface-alt: #EAE4D6;
-  --ink: #2B2A28;
-  --ink-soft: #6B665C;
-  --accent: #445A47;
-  --accent-soft: #7C8F76;
-  --gold: #AD8F60;
-  --rule: #D9D2C2;
+  /* Paleta oficial Sheraton (Brand Book 3.0) */
+  --bg: #EFEAE4;            /* Oyster */
+  --surface: #FBF9F6;
+  --surface-alt: #E7E1D8;
+  --ink: #3A3A3A;           /* Graphite */
+  --ink-soft: #6F625D;      /* Warm Tungsten */
+  --accent: #BEADD1;        /* Lilac */
+  --accent-soft: #D9CFE3;   /* Lilac, más claro */
+  --champagne: #F7D6B4;     /* Champagne — chips/tags */
+  --gold: #6F625D;          /* alias de compatibilidad: mismo rol que ink-soft en detalles pequeños */
+  --rule: #DAD3C8;
   --radius: 2px;
   --maxw: 760px;
 }
@@ -51,7 +53,7 @@ a { color: inherit; }
   font-weight: 500;
   font-size: clamp(2.6rem, 8vw, 4rem);
   letter-spacing: 0.01em;
-  color: var(--accent);
+  color: var(--ink);
 }
 .hero-tag {
   margin: 0.75rem auto 0;
@@ -80,12 +82,12 @@ a { color: inherit; }
   cursor: pointer;
   transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
 }
-.lang-switch button:hover { border-color: var(--accent-soft); color: var(--accent); }
-.lang-switch button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.lang-switch button:hover { border-color: var(--accent); color: var(--ink); }
+.lang-switch button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .lang-switch button[aria-pressed="true"] {
   background: var(--accent);
   border-color: var(--accent);
-  color: var(--surface);
+  color: var(--ink);
 }
 .lang-switch--compact { margin-top: 0; gap: 0.25rem; }
 .lang-switch--compact button {
@@ -108,7 +110,7 @@ a { color: inherit; }
   position: sticky;
   top: 0;
   z-index: 20;
-  background: rgba(242, 239, 233, 0.96);
+  background: rgba(239, 234, 228, 0.96);
   backdrop-filter: blur(6px);
   border-bottom: 1px solid var(--rule);
 }
@@ -124,7 +126,7 @@ a { color: inherit; }
   font-family: 'Cormorant Garamond', serif;
   font-weight: 600;
   font-size: 1.2rem;
-  color: var(--accent);
+  color: var(--ink);
   letter-spacing: 0.01em;
   white-space: nowrap;
 }
@@ -174,11 +176,11 @@ a { color: inherit; }
 }
 .nav a:hover,
 .nav a:focus-visible {
-  color: var(--surface);
+  color: var(--ink);
   background: var(--accent);
   border-color: var(--accent);
 }
-.nav a:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.nav a:focus-visible { outline: 2px solid var(--ink-soft); outline-offset: 2px; }
 .nav a.is-hidden { display: none; }
 
 /* ---------- Main / sections ---------- */
@@ -231,13 +233,17 @@ a { color: inherit; }
 .subsection:first-of-type { margin-top: 0.6rem; }
 .subsection.is-hidden { display: none; }
 .subsection-title {
+  display: inline-block;
   font-family: 'Oswald', sans-serif;
-  font-size: 0.78rem;
+  font-size: 0.7rem;
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: var(--gold);
-  margin: 0 0 0.3rem;
+  color: var(--ink);
+  background: var(--accent);
+  padding: 0.3rem 0.8rem;
+  border-radius: 999px;
+  margin: 0 0 0.5rem;
 }
 .subsection-note {
   margin: 0 0 0.9rem;
@@ -256,7 +262,7 @@ a { color: inherit; }
 
 .item-row {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   gap: 0.6rem;
 }
 .item-name {
@@ -268,14 +274,18 @@ a { color: inherit; }
 .item-leader {
   flex: 1;
   border-bottom: 1px dotted var(--rule);
-  transform: translateY(-0.35em);
+  transform: translateY(-0.15em);
   min-width: 1rem;
 }
 .item-price {
   font-family: 'Oswald', sans-serif;
   font-weight: 500;
-  font-size: 1rem;
-  color: var(--accent);
+  font-size: 0.86rem;
+  letter-spacing: 0.02em;
+  color: var(--surface);
+  background: var(--ink);
+  padding: 0.32rem 0.75rem;
+  border-radius: 999px;
   white-space: nowrap;
 }
 .item-desc {
@@ -288,14 +298,14 @@ a { color: inherit; }
 .item-tag {
   display: inline-block;
   margin-top: 0.4rem;
-  padding: 0.15rem 0.5rem;
-  border: 1px solid var(--gold);
+  padding: 0.18rem 0.6rem;
+  background: var(--champagne);
   border-radius: 999px;
   font-family: 'Oswald', sans-serif;
   font-size: 0.66rem;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  color: var(--gold);
+  color: var(--ink);
 }
 
 /* ---------- Footer ---------- */
