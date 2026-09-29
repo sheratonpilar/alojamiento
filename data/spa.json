@@ -9,7 +9,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-21T13:40:17.307Z",
+  "actualizado": "2026-09-29T11:45:13.362Z",
   "ver_tambien": "",
   "pie": {
    "es": "Tarifas expresadas en pesos argentinos. Incluyen IVA e impuestos correspondientes.\nTel: (0230) 438 5000 / Reservas Health Club: (0230) 438 5070 · WhatsApp: +54 9 11 3135 3014. healthclub@pilar.sheraton.com.ar"
@@ -41,478 +41,1578 @@
  },
  "secciones": [
   {
-   "id": "dias-de-spa",
+   "id": "escapada-dias-semana",
    "nombre": {
-    "es": "Días de Spa",
-    "en": "Spa Days",
-    "pt": "Dias de Spa"
+    "es": "Escapada Días de Semana"
    },
-   "foto": "dias-de-spa.jpg",
+   "foto": "",
    "nota": {
-    "es": "Con reserva previa sin excepción y según disponibilidad."
+    "es": "1 noche. Noches de domingos a jueves. Check In: 15hs (domingos 18hs). Check Out: 12hs. Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
    },
-   "items": [
+   "subsecciones": [
     {
-     "id": "spa-relax-adultos-lj",
+     "id": "escapada-dias-semana-ago-sep",
      "nombre": {
-      "es": "Spa Relax — Adultos (Lunes a Jueves)",
-      "en": "Spa Relax — Adults (Monday to Thursday)",
-      "pt": "Spa Relax — Adultos (Segunda a Quinta)"
+      "es": "Vigencia Agosto–Septiembre 2026"
      },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos.",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room.",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos."
-     },
-     "precio": 135000,
-     "tags": [
-      "MAYORES_16"
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-dias-semana-ago-sep-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 280000,
+       "tags": []
+      },
+      {
+       "id": "escapada-dias-semana-ago-sep-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 330000,
+       "tags": []
+      },
+      {
+       "id": "escapada-dias-semana-ago-sep-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 560000,
+       "tags": []
+      }
      ]
     },
     {
-     "id": "spa-relax-adultos-vd",
+     "id": "escapada-dias-semana-oct-dic",
      "nombre": {
-      "es": "Spa Relax — Adultos (Viernes a Domingos o feriados)",
-      "en": "Spa Relax — Adults (Friday to Sunday or holidays)",
-      "pt": "Spa Relax — Adultos (Sexta a Domingo ou feriados)"
+      "es": "Vigencia Octubre–23 Diciembre 2026"
      },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos.",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room.",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos."
-     },
-     "precio": 165000,
-     "tags": [
-      "MAYORES_16"
-     ]
-    },
-    {
-     "id": "spa-relax-menores-lj",
-     "nombre": {
-      "es": "Spa Relax — Menores de 15 años inclusive (Lunes a Jueves)",
-      "en": "Spa Relax — Children up to 15 years old (Monday to Thursday)",
-      "pt": "Spa Relax — Menores até 15 anos inclusive (Segunda a Quinta)"
-     },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos. El hidromasaje, ice bath, saunas, gimnasio, masajes y tratamientos faciales son solo para mayores de 16 años. Los menores podrán acceder al Health & Spa y a la sala de juegos hasta las 17 hs; luego podrán seguir disfrutando del resto de las instalaciones del hotel. La mesa de pool de la sala de juegos es de uso exclusivo para mayores de 16 años.",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. The hydromassage, ice bath, saunas, gym, massages and facial treatments are for guests 16 and older only. Children may access the Health & Spa and games room until 5 pm; afterwards they may continue enjoying the hotel's other facilities. The pool table in the games room is for guests 16 and older only.",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. A hidromassagem, o ice bath, as saunas, a academia, as massagens e os tratamentos faciais são exclusivos para maiores de 16 anos. Os menores podem acessar o Health & Spa e a sala de jogos até as 17h; depois desse horário, podem continuar aproveitando as demais instalações do hotel. A mesa de sinuca da sala de jogos é de uso exclusivo para maiores de 16 anos."
-     },
-     "precio": 67500,
-     "tags": []
-    },
-    {
-     "id": "spa-relax-menores-vd",
-     "nombre": {
-      "es": "Spa Relax — Menores de 15 años inclusive (Viernes a Domingos o feriados)",
-      "en": "Spa Relax — Children up to 15 years old (Friday to Sunday or holidays)",
-      "pt": "Spa Relax — Menores até 15 anos inclusive (Sexta a Domingo ou feriados)"
-     },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos. El hidromasaje, ice bath, saunas, gimnasio, masajes y tratamientos faciales son solo para mayores de 16 años. Los menores podrán acceder al Health & Spa y a la sala de juegos hasta las 17 hs; luego podrán seguir disfrutando del resto de las instalaciones del hotel. La mesa de pool de la sala de juegos es de uso exclusivo para mayores de 16 años.",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. The hydromassage, ice bath, saunas, gym, massages and facial treatments are for guests 16 and older only. Children may access the Health & Spa and games room until 5 pm; afterwards they may continue enjoying the hotel's other facilities. The pool table in the games room is for guests 16 and older only.",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. A hidromassagem, o ice bath, as saunas, a academia, as massagens e os tratamentos faciais são exclusivos para maiores de 16 anos. Os menores podem acessar o Health & Spa e a sala de jogos até as 17h; depois desse horário, podem continuar aproveitando as demais instalações do hotel. A mesa de sinuca da sala de jogos é de uso exclusivo para maiores de 16 anos."
-     },
-     "precio": 82500,
-     "tags": []
-    },
-    {
-     "id": "spa-energizante-lj",
-     "nombre": {
-      "es": "Spa Energizante (Lunes a Jueves)",
-      "en": "Spa Energizing (Monday to Thursday)",
-      "pt": "Spa Energizante (Segunda a Quinta)"
-     },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos. Masaje de 25´ a elección. Una merienda en el Lobby Bar (infusión caliente, jugo de naranja, tostadas o medialuna).",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 25-minute massage of your choice. An afternoon snack at the Lobby Bar (hot beverage, orange juice, toast or medialuna).",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 25' à escolha. Um lanche no Lobby Bar (bebida quente, suco de laranja, torradas ou medialuna)."
-     },
-     "precio": 165000,
-     "tags": [
-      "MAYORES_16"
-     ]
-    },
-    {
-     "id": "spa-energizante-vd",
-     "nombre": {
-      "es": "Spa Energizante (Viernes a Domingos o feriados)",
-      "en": "Spa Energizing (Friday to Sunday or holidays)",
-      "pt": "Spa Energizante (Sexta a Domingo ou feriados)"
-     },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos. Masaje de 25´ a elección. Una merienda en el Lobby Bar (infusión caliente, jugo de naranja, tostadas o medialuna).",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 25-minute massage of your choice. An afternoon snack at the Lobby Bar (hot beverage, orange juice, toast or medialuna).",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 25' à escolha. Um lanche no Lobby Bar (bebida quente, suco de laranja, torradas ou medialuna)."
-     },
-     "precio": 230000,
-     "tags": [
-      "MAYORES_16"
-     ]
-    },
-    {
-     "id": "spa-integral-lj",
-     "nombre": {
-      "es": "Spa Integral (Lunes a Jueves)",
-      "en": "Spa Integral (Monday to Thursday)",
-      "pt": "Spa Integral (Segunda a Quinta)"
-     },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos. Masaje de 50´ Integral Descontracturante. Un almuerzo en el Lobby Bar (menú a elección: Caesar tradicional u ojo de bife braseado, crema de vino, corona de papa y hongos, y cherrys asados; helado de americana con frutos rojos, gaseosa y café).",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 50-minute full-body muscle-relaxing massage. Lunch at the Lobby Bar (choice of menu: traditional Caesar salad or braised ribeye with wine cream sauce, potato crown with mushrooms and roasted cherry tomatoes; americana ice cream with red berries, a soft drink and coffee).",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 50' Integral Descontraturante. Um almoço no Lobby Bar (menu à escolha: Caesar tradicional ou bife ancho grelhado, creme de vinho, coroa de batata com cogumelos e tomates cereja assados; sorvete americana com frutas vermelhas, refrigerante e café)."
-     },
-     "precio": 240000,
-     "tags": [
-      "MAYORES_16"
-     ]
-    },
-    {
-     "id": "spa-integral-vd",
-     "nombre": {
-      "es": "Spa Integral (Viernes a Domingos o feriados)",
-      "en": "Spa Integral (Friday to Sunday or holidays)",
-      "pt": "Spa Integral (Sexta a Domingo ou feriados)"
-     },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos. Masaje de 50´ Integral Descontracturante. Un almuerzo en el Lobby Bar (menú a elección: Caesar tradicional u ojo de bife braseado, crema de vino, corona de papa y hongos, y cherrys asados; helado de americana con frutos rojos, gaseosa y café).",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 50-minute full-body muscle-relaxing massage. Lunch at the Lobby Bar (choice of menu: traditional Caesar salad or braised ribeye with wine cream sauce, potato crown with mushrooms and roasted cherry tomatoes; americana ice cream with red berries, a soft drink and coffee).",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 50' Integral Descontraturante. Um almoço no Lobby Bar (menu à escolha: Caesar tradicional ou bife ancho grelhado, creme de vinho, coroa de batata com cogumelos e tomates cereja assados; sorvete americana com frutas vermelhas, refrigerante e café)."
-     },
-     "precio": 300000,
-     "tags": [
-      "MAYORES_16"
-     ]
-    },
-    {
-     "id": "spa-radiante-lj",
-     "nombre": {
-      "es": "Spa Radiante (Lunes a Jueves)",
-      "en": "Spa Radiant (Monday to Thursday)",
-      "pt": "Spa Radiante (Segunda a Quinta)"
-     },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos. Masaje de 50´ relajante o descontracturante. Facial de 25´ con máscara de oro y células madre de Argán. Desayuno o merienda en el Lobby Bar (infusión caliente, jugo de naranja, tostadas o medialuna).",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 50-minute relaxing or muscle-relaxing massage. A 25-minute facial with gold mask and Argan stem cells. Breakfast or afternoon snack at the Lobby Bar (hot beverage, orange juice, toast or medialuna).",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 50' relaxante ou descontraturante. Facial de 25' com máscara de ouro e células-tronco de argan. Café da manhã ou lanche no Lobby Bar (bebida quente, suco de laranja, torradas ou medialuna)."
-     },
-     "precio": 255000,
-     "tags": [
-      "MAYORES_16"
-     ]
-    },
-    {
-     "id": "spa-radiante-vd",
-     "nombre": {
-      "es": "Spa Radiante (Viernes a Domingos o feriados)",
-      "en": "Spa Radiant (Friday to Sunday or holidays)",
-      "pt": "Spa Radiante (Sexta a Domingo ou feriados)"
-     },
-     "descripcion": {
-      "es": "Piscina climatizada con hidromasaje y piscina externa con solárium húmedo (en temporada). Sauna, baños de vapor y sala de relax. Ice Bath, piscina de crioterapia. Gimnasio. Sala de juegos. Masaje de 50´ relajante o descontracturante. Facial de 25´ con máscara de oro y células madre de Argán. Desayuno o merienda en el Lobby Bar (infusión caliente, jugo de naranja, tostadas o medialuna).",
-      "en": "Heated pool with hydromassage and outdoor pool with wet solarium (seasonal). Sauna, steam baths and relaxation room. Ice bath and cryotherapy pool. Gym. Games room. A 50-minute relaxing or muscle-relaxing massage. A 25-minute facial with gold mask and Argan stem cells. Breakfast or afternoon snack at the Lobby Bar (hot beverage, orange juice, toast or medialuna).",
-      "pt": "Piscina aquecida com hidromassagem e piscina externa com solário úmido (na temporada). Sauna, banhos de vapor e sala de relaxamento. Ice bath e piscina de crioterapia. Academia. Sala de jogos. Massagem de 50' relaxante ou descontraturante. Facial de 25' com máscara de ouro e células-tronco de argan. Café da manhã ou lanche no Lobby Bar (bebida quente, suco de laranja, torradas ou medialuna)."
-     },
-     "precio": 325000,
-     "tags": [
-      "MAYORES_16"
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-dias-semana-oct-dic-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 300000,
+       "tags": []
+      },
+      {
+       "id": "escapada-dias-semana-oct-dic-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 360000,
+       "tags": []
+      },
+      {
+       "id": "escapada-dias-semana-oct-dic-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 600000,
+       "tags": []
+      }
      ]
     }
    ]
   },
   {
-   "id": "masajes",
+   "id": "escapada-dias-semana-ago-sep",
    "nombre": {
-    "es": "Masajes",
-    "en": "Massages",
-    "pt": "Massagens"
+    "es": "Vigencia Agosto–Septiembre 2026"
    },
-   "foto": "masajes.jpg",
-   "nota": {
-    "es": "Presentarse 15´ antes del horario de reserva para poder aprovechar su tiempo de masaje. Política de cancelación: para cancelar un masaje ya reservado, avisar por lo menos 2 horas antes de la hora reservada; caso contrario se aplicará el 50% del valor del mismo."
-   },
+   "foto": "",
+   "nota": {},
    "items": [
     {
-     "id": "masaje-bienestar",
+     "id": "escapada-dias-semana-ago-sep-1",
      "nombre": {
-      "es": "Masaje de Bienestar 1h 20´",
-      "en": "Wellness Massage 1h 20'",
-      "pt": "Massagem de Bem-Estar 1h20"
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
      },
-     "descripcion": {
-      "es": "Masaje descontracturante y relajante que produce un bienestar general y reduce el estrés.",
-      "en": "A muscle-relaxing, soothing massage that produces overall wellbeing and reduces stress.",
-      "pt": "Massagem descontraturante e relaxante que proporciona bem-estar geral e reduz o estresse."
-     },
-     "precio": 135000,
+     "descripcion": {},
+     "precio": 280000,
      "tags": []
     },
     {
-     "id": "masaje-pareja",
+     "id": "escapada-dias-semana-ago-sep-2",
      "nombre": {
-      "es": "Masaje en Pareja 50´ (únicamente viernes a domingo)",
-      "en": "Couples Massage 50' (Friday to Sunday only)",
-      "pt": "Massagem a Dois 50' (somente sexta a domingo)"
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
      },
-     "descripcion": {
-      "es": "Para disfrutar de a dos de un masaje descontracturante y relajante. Una experiencia compartida.",
-      "en": "Enjoy a relaxing, muscle-relaxing massage together. A shared experience.",
-      "pt": "Para desfrutar em dupla de uma massagem descontraturante e relaxante. Uma experiência compartilhada."
-     },
-     "precio": 210000,
-     "tags": []
-    },
-    {
-     "id": "masaje-aromatico",
-     "nombre": {
-      "es": "Masaje Aromático Relajante 50´",
-      "en": "Relaxing Aromatic Massage 50'",
-      "pt": "Massagem Aromática Relaxante 50'"
-     },
-     "descripcion": {
-      "es": "Masaje de maniobras relajantes realizado con aceites aromáticos esenciales logrando sensaciones cutáneas y olfativas.",
-      "en": "A massage of relaxing techniques performed with essential aromatic oils, engaging both touch and scent.",
-      "pt": "Massagem com manobras relaxantes realizada com óleos aromáticos essenciais, proporcionando sensações táteis e olfativas."
-     },
-     "precio": 130000,
-     "tags": []
-    },
-    {
-     "id": "exfoliacion-corporal",
-     "nombre": {
-      "es": "Exfoliación Corporal 50´",
-      "en": "Body Exfoliation 50'",
-      "pt": "Esfoliação Corporal 50'"
-     },
-     "descripcion": {
-      "es": "Exfoliación y limpieza corporal que elimina células muertas, dejando la piel suave y fresca.",
-      "en": "A body exfoliation and cleanse that removes dead skin cells, leaving skin smooth and refreshed.",
-      "pt": "Esfoliação e limpeza corporal que remove células mortas, deixando a pele macia e revitalizada."
-     },
-     "precio": 115000,
-     "tags": []
-    },
-    {
-     "id": "masaje-integral-descontracturante",
-     "nombre": {
-      "es": "Masaje Integral Descontracturante 50´",
-      "en": "Full-Body Muscle-Relaxing Massage 50'",
-      "pt": "Massagem Integral Descontraturante 50'"
-     },
-     "descripcion": {
-      "es": "Masaje de maniobras profundas para eliminar contracturas y recuperar la estructura muscular.",
-      "en": "A deep-tissue massage that releases muscle tension and restores muscle structure.",
-      "pt": "Massagem de manobras profundas para eliminar contraturas e recuperar a estrutura muscular."
-     },
-     "precio": 115000,
-     "tags": []
-    },
-    {
-     "id": "masaje-antiestres-rostro",
-     "nombre": {
-      "es": "Masaje Anti Estrés de Rostro y Cuero Cabelludo 25´",
-      "en": "Face & Scalp Anti-Stress Massage 25'",
-      "pt": "Massagem Anti-Estresse de Rosto e Couro Cabeludo 25'"
-     },
-     "descripcion": {
-      "es": "Masaje relajante por excelencia. Mejora la circulación sanguínea de rostro, cuello y cuero cabelludo. Reduce y elimina tensiones, movilizando los tejidos de la piel.",
-      "en": "A truly relaxing massage. Improves blood circulation in the face, neck and scalp, releasing tension and mobilizing skin tissue.",
-      "pt": "Massagem relaxante por excelência. Melhora a circulação sanguínea do rosto, pescoço e couro cabeludo, reduzindo e eliminando tensões e mobilizando os tecidos da pele."
-     },
-     "precio": 95000,
-     "tags": []
-    },
-    {
-     "id": "masaje-descontracturante",
-     "nombre": {
-      "es": "Masaje Descontracturante 25´",
-      "en": "Muscle-Relaxing Massage 25'",
-      "pt": "Massagem Descontraturante 25'"
-     },
-     "descripcion": {
-      "es": "Masaje de maniobras profundas, para eliminar contracturas y recuperar la estructura muscular.",
-      "en": "A deep-tissue massage that releases muscle tension and restores muscle structure.",
-      "pt": "Massagem de manobras profundas, para eliminar contraturas e recuperar a estrutura muscular."
-     },
-     "precio": 95000,
-     "tags": []
-    },
-    {
-     "id": "masaje-relajante-pies",
-     "nombre": {
-      "es": "Masaje Relajante de Pies 25´",
-      "en": "Relaxing Foot Massage 25'",
-      "pt": "Massagem Relaxante nos Pés 25'"
-     },
-     "descripcion": {
-      "es": "Masaje sumamente relajante para aliviar tensiones que repercuten en las distintas partes del cuerpo.",
-      "en": "A deeply relaxing massage that eases tension felt throughout different parts of the body.",
-      "pt": "Massagem extremamente relaxante para aliviar tensões que repercutem em diferentes partes do corpo."
-     },
-     "precio": 95000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "tratamientos-faciales",
-   "nombre": {
-    "es": "Tratamientos Faciales",
-    "en": "Facial Treatments",
-    "pt": "Tratamentos Faciais"
-   },
-   "foto": "tratamientos-faciales.jpg",
-   "nota": {
-    "es": "Con reserva previa y según disponibilidad. Incluye acceso al sauna, baños de vapor y salas de relax."
-   },
-   "items": [
-    {
-     "id": "facial-puntas-diamante",
-     "nombre": {
-      "es": "Limpieza Facial con Puntas de Diamante 1h 20´",
-      "en": "Diamond-Tip Facial Cleanse 1h 20'",
-      "pt": "Limpeza de Pele com Ponta de Diamante 1h20"
-     },
-     "descripcion": {
-      "es": "Limpieza profunda de la piel, peeling, exfoliación profunda con micro cristales, eliminando células muertas, extracción de impurezas, alta frecuencia, hidratación y/o nutrición y máscara según el tipo de piel. Oxigena la piel promoviendo la producción natural de colágeno y elastina y potencia los principios activos de los cosméticos.",
-      "en": "A deep skin cleanse with peeling and diamond-microdermabrasion exfoliation, removing dead cells, extracting impurities, high-frequency treatment, hydration and/or nourishment, and a mask suited to your skin type. Oxygenates the skin, promoting natural collagen and elastin production and boosting the effectiveness of active cosmetic ingredients.",
-      "pt": "Limpeza profunda da pele, peeling, esfoliação profunda com microcristais, eliminando células mortas, extração de impurezas, alta frequência, hidratação e/ou nutrição e máscara de acordo com o tipo de pele. Oxigena a pele, estimulando a produção natural de colágeno e elastina e potencializando os princípios ativos dos cosméticos."
-     },
-     "precio": 135000,
-     "tags": []
-    },
-    {
-     "id": "facial-limpieza-profunda",
-     "nombre": {
-      "es": "Limpieza Facial Profunda 1h 20´",
-      "en": "Deep Facial Cleanse 1h 20'",
-      "pt": "Limpeza de Pele Profunda 1h20"
-     },
-     "descripcion": {
-      "es": "Limpieza profunda de la piel, extracción de impurezas, alta frecuencia, masaje facial y aplicación de una máscara apropiada para cada tipo de piel. Suaviza la piel, aumenta la luminosidad del rostro y recupera las funciones vitales.",
-      "en": "A deep skin cleanse with impurity extraction, high-frequency treatment, facial massage and a mask suited to each skin type. Softens the skin, enhances facial radiance and restores its vital functions.",
-      "pt": "Limpeza profunda da pele, extração de impurezas, alta frequência, massagem facial e aplicação de máscara apropriada para cada tipo de pele. Suaviza a pele, aumenta a luminosidade do rosto e recupera as funções vitais."
-     },
-     "precio": 125000,
-     "tags": []
-    },
-    {
-     "id": "microdermoabrasion",
-     "nombre": {
-      "es": "Microdermoabrasión con Puntas de Diamante 50´",
-      "en": "Diamond-Tip Microdermabrasion 50'",
-      "pt": "Microdermoabrasão com Ponta de Diamante 50'"
-     },
-     "descripcion": {
-      "es": "Exfoliación profunda con micro cristales, eliminando células muertas. Renueva la piel, atenuando líneas de expresión, con una oxigenación profunda para lucir la piel más fina, suave y radiante.",
-      "en": "Deep exfoliation with micro-crystals that removes dead cells. Renews the skin and softens expression lines, with deep oxygenation for finer, smoother, more radiant skin.",
-      "pt": "Esfoliação profunda com microcristais, eliminando células mortas. Renova a pele, atenuando linhas de expressão, com oxigenação profunda para uma pele mais fina, macia e radiante."
-     },
-     "precio": 115000,
-     "tags": []
-    },
-    {
-     "id": "mascara-oro",
-     "nombre": {
-      "es": "Máscara de Oro y Células Madre de Argán 25´",
-      "en": "Gold & Argan Stem Cell Mask 25'",
-      "pt": "Máscara de Ouro e Células-Tronco de Argan 25'"
-     },
-     "descripcion": {
-      "es": "Recomendada para pieles envejecidas o con pérdida de firmeza. Revitaliza y estimula la regeneración de la piel. Es antioxidante. Minimiza arrugas y líneas de expresión. Tiene un gran efecto iluminador y tensor.",
-      "en": "Recommended for mature skin or skin that has lost firmness. Revitalizes and stimulates skin regeneration. Antioxidant. Minimizes wrinkles and expression lines, with a strong illuminating and firming effect.",
-      "pt": "Recomendada para peles envelhecidas ou com perda de firmeza. Revitaliza e estimula a regeneração da pele. É antioxidante. Minimiza rugas e linhas de expressão. Tem um grande efeito iluminador e tensor."
-     },
-     "precio": 105000,
-     "tags": []
-    },
-    {
-     "id": "mascara-hialuronico",
-     "nombre": {
-      "es": "Máscara de Ácido Hialurónico 25´",
-      "en": "Hyaluronic Acid Mask 25'",
-      "pt": "Máscara de Ácido Hialurônico 25'"
-     },
-     "descripcion": {
-      "es": "Efecto antiage con efecto de relleno que suaviza las arrugas. Eficaz hidratante de larga duración, humectando la piel en capas profundas. Deja la piel más luminosa y flexible.",
-      "en": "An anti-aging, filling effect that softens wrinkles. A long-lasting, effective moisturizer that hydrates the skin in its deeper layers, leaving it more luminous and supple.",
-      "pt": "Efeito antiage com efeito de preenchimento que suaviza as rugas. Hidratante eficaz de longa duração, hidratando a pele em camadas profundas. Deixa a pele mais luminosa e flexível."
-     },
-     "precio": 105000,
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "membresias",
-   "nombre": {
-    "es": "Membresías",
-    "en": "Memberships",
-    "pt": "Planos de Associação"
-   },
-   "foto": "membresia.jpg",
-   "nota": {
-    "es": "Acceso ilimitado a todas las instalaciones todos los días. Los abonos semestrales y anuales pueden abonarse en 3 cuotas sin interés. Beneficios para socios: toallas, batas y lockers, Wi-Fi, estacionamiento, 15% off en masajes, 10% off en pases de días de spa, 15% off en restaurantes, 10% off en alojamiento, 20% off en peluquería Hairspray, 20% off en lavandería. Horarios: lunes a viernes 7 a 22 hs, sábados 8 a 22 hs, domingos y feriados 8 a 20 hs. Reservas: Tel (0230) 438 5070 · WhatsApp +54 9 11 3135 3014."
-   },
-   "items": [
-    {
-     "id": "membresia-mensual",
-     "nombre": {
-      "es": "Abono Mensual",
-      "en": "Monthly Membership",
-      "pt": "Plano Mensal"
-     },
-     "descripcion": {
-      "es": "Acceso ilimitado a todas las instalaciones todos los días.",
-      "en": "Unlimited access to all facilities every day.",
-      "pt": "Acesso ilimitado a todas as instalações, todos os dias."
-     },
+     "descripcion": {},
      "precio": 330000,
      "tags": []
     },
     {
-     "id": "membresia-trimestral",
+     "id": "escapada-dias-semana-ago-sep-3",
      "nombre": {
-      "es": "Abono Trimestral",
-      "en": "Quarterly Membership",
-      "pt": "Plano Trimestral"
+      "es": "Habitación Suite — dos ambientes (72 m²)"
      },
-     "descripcion": {
-      "es": "Acceso ilimitado a todas las instalaciones todos los días.",
-      "en": "Unlimited access to all facilities every day.",
-      "pt": "Acesso ilimitado a todas as instalações, todos os dias."
+     "descripcion": {},
+     "precio": 560000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-fin-semana-ago-sep",
+   "nombre": {
+    "es": "Vigencia Agosto–Septiembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-fin-semana-ago-sep-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
      },
+     "descripcion": {},
+     "precio": 340000,
+     "tags": []
+    },
+    {
+     "id": "escapada-fin-semana-ago-sep-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 400000,
+     "tags": []
+    },
+    {
+     "id": "escapada-fin-semana-ago-sep-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 680000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-cena-1n-ago-sep",
+   "nombre": {
+    "es": "Vigencia Agosto–Septiembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-cena-1n-ago-sep-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 440000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-1n-ago-sep-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 510000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-1n-ago-sep-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 840000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-cena-2n-ago-sep",
+   "nombre": {
+    "es": "Vigencia Agosto–Septiembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-cena-2n-ago-sep-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 680000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-2n-ago-sep-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 800000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-2n-ago-sep-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 1360000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-cena-3n-ago-sep",
+   "nombre": {
+    "es": "Vigencia Agosto–Septiembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-cena-3n-ago-sep-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 960000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-3n-ago-sep-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 1130000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-3n-ago-sep-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 1920000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "noche-romantica-ago-sep",
+   "nombre": {
+    "es": "Vigencia Agosto–Septiembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "noche-romantica-ago-sep-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 480000,
+     "tags": []
+    },
+    {
+     "id": "noche-romantica-ago-sep-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 540000,
+     "tags": []
+    },
+    {
+     "id": "noche-romantica-ago-sep-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 940000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "noche-inolvidable-ago-sep",
+   "nombre": {
+    "es": "Vigencia Agosto–Septiembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "noche-inolvidable-ago-sep-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 380000,
+     "tags": []
+    },
+    {
+     "id": "noche-inolvidable-ago-sep-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 440000,
+     "tags": []
+    },
+    {
+     "id": "noche-inolvidable-ago-sep-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 740000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-amigas-ago-sep",
+   "nombre": {
+    "es": "Vigencia Agosto–Septiembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-amigas-ago-sep-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas"
+     },
+     "descripcion": {},
+     "precio": 430000,
+     "tags": []
+    },
+    {
+     "id": "escapada-amigas-ago-sep-2",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas"
+     },
+     "descripcion": {},
+     "precio": 650000,
+     "tags": []
+    },
+    {
+     "id": "escapada-amigas-ago-sep-3",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas"
+     },
+     "descripcion": {},
+     "precio": 515000,
+     "tags": []
+    },
+    {
+     "id": "escapada-amigas-ago-sep-4",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas"
+     },
+     "descripcion": {},
+     "precio": 710000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "finde-largo-octubre",
+   "nombre": {
+    "es": "Octubre — Viernes 9 al Lunes 12"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs lunes 12/10."
+   },
+   "items": [
+    {
+     "id": "finde-largo-octubre-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 380000,
+     "tags": []
+    },
+    {
+     "id": "finde-largo-octubre-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 440000,
+     "tags": []
+    },
+    {
+     "id": "finde-largo-octubre-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 750000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-fin-semana",
+   "nombre": {
+    "es": "Escapada de Fin de Semana"
+   },
+   "foto": "",
+   "nota": {
+    "es": "1 noche. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+   },
+   "subsecciones": [
+    {
+     "id": "escapada-fin-semana-ago-sep",
+     "nombre": {
+      "es": "Vigencia Agosto–Septiembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-fin-semana-ago-sep-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 340000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-ago-sep-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 400000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-ago-sep-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 680000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "escapada-fin-semana-oct-dic",
+     "nombre": {
+      "es": "Vigencia Octubre–23 Diciembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-fin-semana-oct-dic-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 380000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-oct-dic-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-oct-dic-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 750000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "escapada-dias-semana-oct-dic",
+   "nombre": {
+    "es": "Vigencia Octubre–23 Diciembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-dias-semana-oct-dic-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 300000,
+     "tags": []
+    },
+    {
+     "id": "escapada-dias-semana-oct-dic-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 360000,
+     "tags": []
+    },
+    {
+     "id": "escapada-dias-semana-oct-dic-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 600000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-fin-semana-oct-dic",
+   "nombre": {
+    "es": "Vigencia Octubre–23 Diciembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-fin-semana-oct-dic-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 380000,
+     "tags": []
+    },
+    {
+     "id": "escapada-fin-semana-oct-dic-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 440000,
+     "tags": []
+    },
+    {
+     "id": "escapada-fin-semana-oct-dic-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 750000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-cena-1n-oct-dic",
+   "nombre": {
+    "es": "Vigencia Octubre–23 Diciembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-cena-1n-oct-dic-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 490000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-1n-oct-dic-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 560000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-1n-oct-dic-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 930000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-cena-2n-oct-dic",
+   "nombre": {
+    "es": "Vigencia Octubre–23 Diciembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-cena-2n-oct-dic-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 760000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-2n-oct-dic-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 880000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-2n-oct-dic-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 1500000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-cena-3n-oct-dic",
+   "nombre": {
+    "es": "Vigencia Octubre–23 Diciembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-cena-3n-oct-dic-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 1060000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-3n-oct-dic-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 1240000,
+     "tags": []
+    },
+    {
+     "id": "escapada-cena-3n-oct-dic-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 2100000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "noche-romantica-oct-dic",
+   "nombre": {
+    "es": "Vigencia Octubre–23 Diciembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "noche-romantica-oct-dic-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 530000,
+     "tags": []
+    },
+    {
+     "id": "noche-romantica-oct-dic-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 600000,
+     "tags": []
+    },
+    {
+     "id": "noche-romantica-oct-dic-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 1040000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "noche-inolvidable-oct-dic",
+   "nombre": {
+    "es": "Vigencia Octubre–23 Diciembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "noche-inolvidable-oct-dic-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 420000,
+     "tags": []
+    },
+    {
+     "id": "noche-inolvidable-oct-dic-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 490000,
+     "tags": []
+    },
+    {
+     "id": "noche-inolvidable-oct-dic-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 820000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-amigas-oct-dic",
+   "nombre": {
+    "es": "Vigencia Octubre–23 Diciembre 2026"
+   },
+   "foto": "",
+   "nota": {},
+   "items": [
+    {
+     "id": "escapada-amigas-oct-dic-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas"
+     },
+     "descripcion": {},
+     "precio": 480000,
+     "tags": []
+    },
+    {
+     "id": "escapada-amigas-oct-dic-2",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas"
+     },
+     "descripcion": {},
      "precio": 720000,
      "tags": []
     },
     {
-     "id": "membresia-semestral",
+     "id": "escapada-amigas-oct-dic-3",
      "nombre": {
-      "es": "Abono Semestral*",
-      "en": "Semi-Annual Membership*",
-      "pt": "Plano Semestral*"
+      "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas"
      },
-     "descripcion": {
-      "es": "Acceso ilimitado a todas las instalaciones todos los días. *Puede abonarse en 3 cuotas sin interés.",
-      "en": "Unlimited access to all facilities every day. *Can be paid in 3 interest-free installments.",
-      "pt": "Acesso ilimitado a todas as instalações, todos os dias. *Pode ser pago em 3 parcelas sem juros."
-     },
-     "precio": 1200000,
+     "descripcion": {},
+     "precio": 570000,
      "tags": []
     },
     {
-     "id": "membresia-anual",
+     "id": "escapada-amigas-oct-dic-4",
      "nombre": {
-      "es": "Abono Anual*",
-      "en": "Annual Membership*",
-      "pt": "Plano Anual*"
+      "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas"
+     },
+     "descripcion": {},
+     "precio": 790000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "finde-largo-noviembre",
+   "nombre": {
+    "es": "Noviembre — Viernes 20 al Lunes 23"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs lunes 23/11."
+   },
+   "items": [
+    {
+     "id": "finde-largo-noviembre-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 380000,
+     "tags": []
+    },
+    {
+     "id": "finde-largo-noviembre-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 440000,
+     "tags": []
+    },
+    {
+     "id": "finde-largo-noviembre-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 750000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-fin-semana-cena-1n",
+   "nombre": {
+    "es": "Escapada Fin de Semana con Cena — 1 noche"
+   },
+   "foto": "",
+   "nota": {
+    "es": "1 noche con cena. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+   },
+   "subsecciones": [
+    {
+     "id": "escapada-cena-1n-ago-sep",
+     "nombre": {
+      "es": "Vigencia Agosto–Septiembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-cena-1n-ago-sep-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-1n-ago-sep-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 510000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-1n-ago-sep-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 840000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "escapada-cena-1n-oct-dic",
+     "nombre": {
+      "es": "Vigencia Octubre–23 Diciembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-cena-1n-oct-dic-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 490000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-1n-oct-dic-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 560000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-1n-oct-dic-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 930000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "finde-largo-diciembre",
+   "nombre": {
+    "es": "Diciembre — Viernes 4 al Martes 8"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs martes 08/12."
+   },
+   "items": [
+    {
+     "id": "finde-largo-diciembre-1",
+     "nombre": {
+      "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 380000,
+     "tags": []
+    },
+    {
+     "id": "finde-largo-diciembre-2",
+     "nombre": {
+      "es": "Habitación de Lujo Vista Jardín (36 m²)"
+     },
+     "descripcion": {},
+     "precio": 440000,
+     "tags": []
+    },
+    {
+     "id": "finde-largo-diciembre-3",
+     "nombre": {
+      "es": "Habitación Suite — dos ambientes (72 m²)"
+     },
+     "descripcion": {},
+     "precio": 750000,
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "escapada-fin-semana-cena-2n",
+   "nombre": {
+    "es": "Escapada Fin de Semana con Cena — 2 noches"
+   },
+   "foto": "",
+   "nota": {
+    "es": "2 noches con cena. Noches de viernes y sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+   },
+   "subsecciones": [
+    {
+     "id": "escapada-cena-2n-ago-sep",
+     "nombre": {
+      "es": "Vigencia Agosto–Septiembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-cena-2n-ago-sep-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 680000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-2n-ago-sep-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 800000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-2n-ago-sep-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 1360000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "escapada-cena-2n-oct-dic",
+     "nombre": {
+      "es": "Vigencia Octubre–23 Diciembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-cena-2n-oct-dic-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 760000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-2n-oct-dic-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 880000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-2n-oct-dic-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 1500000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "escapada-fin-semana-cena-3n",
+   "nombre": {
+    "es": "Escapada Fin de Semana con Cena — 3 noches"
+   },
+   "foto": "",
+   "nota": {
+    "es": "3 noches con cena. Noches de jueves a domingo o viernes a lunes. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+   },
+   "subsecciones": [
+    {
+     "id": "escapada-cena-3n-ago-sep",
+     "nombre": {
+      "es": "Vigencia Agosto–Septiembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-cena-3n-ago-sep-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 960000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-3n-ago-sep-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 1130000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-3n-ago-sep-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 1920000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "escapada-cena-3n-oct-dic",
+     "nombre": {
+      "es": "Vigencia Octubre–23 Diciembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-cena-3n-oct-dic-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 1060000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-3n-oct-dic-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 1240000,
+       "tags": []
+      },
+      {
+       "id": "escapada-cena-3n-oct-dic-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 2100000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noche-romantica",
+   "nombre": {
+    "es": "Noche Romántica"
+   },
+   "foto": "",
+   "nota": {
+    "es": "1 noche. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas; desayuno buffet en Las Vasijas Restaurante o Room Service en la habitación; acceso a instalaciones de Health & Spa y Jardines; cena romántica en Don Giovanni Ristorante con vino y bebidas sin alcohol; botella de champagne y dulces del chef en la habitación; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi."
+   },
+   "subsecciones": [
+    {
+     "id": "noche-romantica-ago-sep",
+     "nombre": {
+      "es": "Vigencia Agosto–Septiembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "noche-romantica-ago-sep-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 480000,
+       "tags": []
+      },
+      {
+       "id": "noche-romantica-ago-sep-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 540000,
+       "tags": []
+      },
+      {
+       "id": "noche-romantica-ago-sep-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 940000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "noche-romantica-oct-dic",
+     "nombre": {
+      "es": "Vigencia Octubre–23 Diciembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "noche-romantica-oct-dic-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 530000,
+       "tags": []
+      },
+      {
+       "id": "noche-romantica-oct-dic-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 600000,
+       "tags": []
+      },
+      {
+       "id": "noche-romantica-oct-dic-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 1040000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noche-inolvidable",
+   "nombre": {
+    "es": "Noche Inolvidable"
+   },
+   "foto": "",
+   "nota": {
+    "es": "1 noche. Noches de lunes a domingos. Check In: 15hs. Check Out: 12hs (domingos 18hs). Incluye: hospedaje para dos personas; desayuno buffet en Las Vasijas Restaurante o Room Service en la habitación; acceso a instalaciones de Health & Spa y Jardines; botella de champagne y dulces del chef en la habitación; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi."
+   },
+   "subsecciones": [
+    {
+     "id": "noche-inolvidable-ago-sep",
+     "nombre": {
+      "es": "Vigencia Agosto–Septiembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "noche-inolvidable-ago-sep-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 380000,
+       "tags": []
+      },
+      {
+       "id": "noche-inolvidable-ago-sep-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "noche-inolvidable-ago-sep-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 740000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "noche-inolvidable-oct-dic",
+     "nombre": {
+      "es": "Vigencia Octubre–23 Diciembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "noche-inolvidable-oct-dic-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 420000,
+       "tags": []
+      },
+      {
+       "id": "noche-inolvidable-oct-dic-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 490000,
+       "tags": []
+      },
+      {
+       "id": "noche-inolvidable-oct-dic-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 820000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "escapada-amigas",
+   "nombre": {
+    "es": "Escapada de Amigas"
+   },
+   "foto": "",
+   "nota": {
+    "es": "1 noche. Noches de viernes. Check In: 15hs. Check Out: 12hs. Incluye: desayuno buffet en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; cena buffet con vino y bebidas sin alcohol incluidas en Las Vasijas Restaurante; un trago en el Lobby Bar por persona; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi."
+   },
+   "subsecciones": [
+    {
+     "id": "escapada-amigas-ago-sep",
+     "nombre": {
+      "es": "Vigencia Agosto–Septiembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-amigas-ago-sep-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas"
+       },
+       "descripcion": {},
+       "precio": 430000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-ago-sep-2",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas"
+       },
+       "descripcion": {},
+       "precio": 650000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-ago-sep-3",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas"
+       },
+       "descripcion": {},
+       "precio": 515000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-ago-sep-4",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas"
+       },
+       "descripcion": {},
+       "precio": 710000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "escapada-amigas-oct-dic",
+     "nombre": {
+      "es": "Vigencia Octubre–23 Diciembre 2026"
+     },
+     "nota": {},
+     "items": [
+      {
+       "id": "escapada-amigas-oct-dic-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas"
+       },
+       "descripcion": {},
+       "precio": 480000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-oct-dic-2",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas"
+       },
+       "descripcion": {},
+       "precio": 720000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-oct-dic-3",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas"
+       },
+       "descripcion": {},
+       "precio": 570000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-oct-dic-4",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas"
+       },
+       "descripcion": {},
+       "precio": 790000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fines-de-semana-largos",
+   "nombre": {
+    "es": "Fines de Semana Largos"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; acceso a instalaciones de Health & Spa y Jardines; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+   },
+   "subsecciones": [
+    {
+     "id": "finde-largo-octubre",
+     "nombre": {
+      "es": "Octubre — Viernes 9 al Lunes 12"
+     },
+     "nota": {
+      "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs lunes 12/10."
+     },
+     "items": [
+      {
+       "id": "finde-largo-octubre-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 380000,
+       "tags": []
+      },
+      {
+       "id": "finde-largo-octubre-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "finde-largo-octubre-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 750000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "finde-largo-noviembre",
+     "nombre": {
+      "es": "Noviembre — Viernes 20 al Lunes 23"
+     },
+     "nota": {
+      "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs lunes 23/11."
+     },
+     "items": [
+      {
+       "id": "finde-largo-noviembre-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 380000,
+       "tags": []
+      },
+      {
+       "id": "finde-largo-noviembre-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "finde-largo-noviembre-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 750000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "finde-largo-diciembre",
+     "nombre": {
+      "es": "Diciembre — Viernes 4 al Martes 8"
+     },
+     "nota": {
+      "es": "Check In: 15hs. Check Out: 12hs | Late check out 16hs martes 08/12."
+     },
+     "items": [
+      {
+       "id": "finde-largo-diciembre-1",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 380000,
+       "tags": []
+      },
+      {
+       "id": "finde-largo-diciembre-2",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+       },
+       "descripcion": {},
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "finde-largo-diciembre-3",
+       "nombre": {
+        "es": "Habitación Suite — dos ambientes (72 m²)"
+       },
+       "descripcion": {},
+       "precio": 750000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "extras",
+   "nombre": {
+    "es": "Extras"
+   },
+   "foto": "",
+   "nota": {
+    "es": "Cargos adicionales aplicables sobre cualquiera de los paquetes de hospedaje."
+   },
+   "items": [
+    {
+     "id": "extra-cama-roll-away",
+     "nombre": {
+      "es": "Cama extra roll away (1,10m x 2m) para menor en Family Plan"
      },
      "descripcion": {
-      "es": "Acceso ilimitado a todas las instalaciones todos los días. *Puede abonarse en 3 cuotas sin interés.",
-      "en": "Unlimited access to all facilities every day. *Can be paid in 3 interest-free installments.",
-      "pt": "Acesso ilimitado a todas as instalações, todos os dias. *Pode ser pago em 3 parcelas sem juros."
+      "es": "Por noche, + IVA (21%)."
      },
-     "precio": 2100000,
+     "precio": 70000,
+     "tags": []
+    },
+    {
+     "id": "extra-tercer-adulto",
+     "nombre": {
+      "es": "Tercer adulto (mayor de 13 años) en habitación"
+     },
+     "descripcion": {
+      "es": "Por noche, + IVA (21%). Incluye cama adicional, desayuno buffet y acceso al spa."
+     },
+     "precio": 130000,
      "tags": []
     }
    ]
