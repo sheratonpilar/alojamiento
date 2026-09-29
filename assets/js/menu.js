@@ -102,9 +102,14 @@
   function renderHero() {
     var eyebrow = document.getElementById('heroEyebrow');
     var tag = document.getElementById('heroTag');
+    var title = document.getElementById('heroTitle');
+    var brand = document.getElementById('brandName');
     var search = document.getElementById('searchInput');
+    var carta = state.data && state.data.carta;
     if (eyebrow) eyebrow.textContent = ui('eyebrow');
-    if (tag) tag.textContent = ui('tag');
+    if (title && carta && carta.nombre) title.textContent = carta.nombre;
+    if (brand && carta && carta.nombre) brand.textContent = carta.nombre;
+    if (tag) tag.textContent = (carta && carta.bajada) ? carta.bajada : ui('tag');
     if (search) {
       search.placeholder = ui('searchPlaceholder');
       search.setAttribute('aria-label', ui('searchPlaceholder'));
