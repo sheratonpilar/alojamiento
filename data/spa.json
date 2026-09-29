@@ -4,16 +4,18 @@
   "nombre": "Paquetes de hospedaje",
   "tema": "spa",
   "logo": "hotel-spa.svg",
-  "bajada": "",
+  "bajada": "Tarifas de hospedaje hasta el 23/12/2026",
   "idiomas": [
    "es",
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-29T14:07:04.178Z",
+  "actualizado": "2026-09-29T14:11:48.618Z",
   "ver_tambien": "",
   "pie": {
-   "es": "Tarifas expresadas en pesos argentinos, de cupo limitado y sujeto a modificación sin previo aviso.\nTodas las tarifas son + IVA \nPanamericana Km. 49,5. Pilar\nReservas: (0230) 438 5055/6 · WhatsApp: +54 9 11 3135-3098 reservas@pilar.sheraton.com.ar"
+   "es": "Tarifas expresadas en pesos argentinos, de cupo limitado y sujeto a modificación sin previo aviso.\nTodas las tarifas son + IVA\nPanamericana Km. 49,5. Pilar\nReservas: (0230) 438 5055/6\nWhatsApp: +54 9 11 3135-3098\nreservas@pilar.sheraton.com.ar",
+   "en": "Rates are expressed in Argentine pesos, subject to availability and change without notice.\n\nAll rates are plus VAT.\nPanamericana Km. 49.5, Pilar\nReservations: (0230) 438 5055/6\nWhatsApp: +54 9 11 3135-3098\nreservas@pilar.sheraton.com.ar",
+   "pt": "As tarifas são expressas em pesos argentinos, sujeitas à disponibilidade e a alterações sem aviso prévio.\n\nTodas as tarifas são acrescidas de IVA.\n\nPanamericana Km. 49.5, Pilar\nReservas: (0230) 438 5055/6\nWhatsApp: +54 9 11 3135-3098\nreservas@pilar.sheraton.com.ar"
   }
  },
  "tags": {
@@ -44,24 +46,32 @@
   {
    "id": "escapada-dias-semana",
    "nombre": {
-    "es": "Escapada Días de Semana"
+    "es": "Escapada Días de Semana",
+    "en": "Weekday Getaway",
+    "pt": "Escapada durante a semana"
    },
    "foto": "",
    "nota": {
-    "es": "1 noche. Noches de domingos a jueves. Check In: 15hs (domingos 18hs). Check Out: 12hs. Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+    "es": "1 noche. Noches de domingos a jueves. Check In: 15hs (domingos 18hs). Check Out: 12hs. Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "1 night. Sunday to Thursday nights. Check-in: 3 PM (6 PM Sundays). Check-out: 12 PM. Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; access to Health & Spa facilities and gardens; multi-sports court, games room and outdoor playground; parking and WiFi connection.",
+    "pt": "1 noite. De domingo a quinta-feira. Check-in: 15h (18h aos domingos). Check-out: 12h. Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; acesso às instalações de Saúde e Spa e jardins; quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e Wi-Fi."
    },
    "subsecciones": [
     {
      "id": "escapada-dias-semana-ago-sep",
      "nombre": {
-      "es": "Vigencia para Agosto y Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026",
+      "en": "Valid for August and September 2026",
+      "pt": "Válido para agosto e setembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-dias-semana-ago-sep-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 280000,
@@ -70,7 +80,9 @@
       {
        "id": "escapada-dias-semana-ago-sep-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 330000,
@@ -79,7 +91,9 @@
       {
        "id": "escapada-dias-semana-ago-sep-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 560000,
@@ -90,14 +104,18 @@
     {
      "id": "escapada-dias-semana-oct-dic",
      "nombre": {
-      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026",
+      "en": "Valid from October until December 23, 2026",
+      "pt": "Válido de outubro até 23 de dezembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-dias-semana-oct-dic-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 300000,
@@ -106,7 +124,9 @@
       {
        "id": "escapada-dias-semana-oct-dic-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 360000,
@@ -115,7 +135,9 @@
       {
        "id": "escapada-dias-semana-oct-dic-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 600000,
@@ -128,24 +150,32 @@
   {
    "id": "escapada-fin-semana",
    "nombre": {
-    "es": "Escapada de Fin de Semana"
+    "es": "Escapada de Fin de Semana",
+    "en": "Weekend Getaway",
+    "pt": "Escapada de fim de semana"
    },
    "foto": "",
    "nota": {
-    "es": "1 noche. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+    "es": "1 noche. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "1 night. Friday or Saturday nights. Check-in: 3:00 PM. Check-out: 12:00 PM (Sundays 4:00 PM). Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; access to Health & Spa facilities and Gardens; Sheratons (children's recreation for ages 6 to 12 with instructors); multi-sports court, game room and outdoor playground; parking and WiFi connection.",
+    "pt": "1 noite. Sexta ou sábado à noite. Check-in: 15h. Check-out: 12h (domingos 16h). Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; acesso às instalações de Saúde e Spa e Jardins; Sheratons (recreação infantil para crianças de 6 a 12 anos com instrutores); quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e conexão Wi-Fi."
    },
    "subsecciones": [
     {
      "id": "escapada-fin-semana-ago-sep",
      "nombre": {
-      "es": "Vigencia para Agosto y Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026",
+      "en": "Valid for August and September 2026",
+      "pt": "Válido para agosto e setembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-fin-semana-ago-sep-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 340000,
@@ -154,7 +184,9 @@
       {
        "id": "escapada-fin-semana-ago-sep-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 400000,
@@ -163,7 +195,9 @@
       {
        "id": "escapada-fin-semana-ago-sep-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 680000,
@@ -174,14 +208,18 @@
     {
      "id": "escapada-fin-semana-oct-dic",
      "nombre": {
-      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026",
+      "en": "Valid from October until December 23, 2026",
+      "pt": "Válido de outubro até 23 de dezembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-fin-semana-oct-dic-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 380000,
@@ -190,7 +228,9 @@
       {
        "id": "escapada-fin-semana-oct-dic-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 440000,
@@ -199,7 +239,9 @@
       {
        "id": "escapada-fin-semana-oct-dic-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 750000,
@@ -212,24 +254,32 @@
   {
    "id": "escapada-fin-semana-cena-1n",
    "nombre": {
-    "es": "Escapada Fin de Semana con Cena — 1 noche"
+    "es": "Escapada Fin de Semana con Cena — 1 noche",
+    "en": "Weekend Getaway with Dinner — 1 night",
+    "pt": "Fim de semana com jantar incluído — 1 noite"
    },
    "foto": "",
    "nota": {
-    "es": "1 noche con cena. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+    "es": "1 noche con cena. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "1 night with dinner. Friday or Saturday nights. Check-in: 3:00 PM. Check-out: 12:00 PM (Sundays 4:00 PM). Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; access to Health & Spa facilities and gardens; one buffet dinner at Las Vasijas Restaurant for two adults with wine included; Sheratoons (children's recreation for ages 6 to 12 with instructors); multi-sports court, game room and outdoor playground; parking and Wi-Fi connection.",
+    "pt": "1 noite com jantar. Sexta ou sábado à noite. Check-in: 15h. Check-out: 12h (domingos 16h). Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; acesso às instalações de Saúde e Spa e jardins; um jantar buffet no Restaurante Las Vasijas para dois adultos com vinho incluído; Sheratoons (recreação infantil para crianças de 6 a 12 anos com instrutores); quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e Wi-Fi."
    },
    "subsecciones": [
     {
      "id": "escapada-cena-1n-ago-sep",
      "nombre": {
-      "es": "Vigencia para Agosto y Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026",
+      "en": "Valid for August and September 2026",
+      "pt": "Válido para agosto e setembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-cena-1n-ago-sep-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 440000,
@@ -238,7 +288,9 @@
       {
        "id": "escapada-cena-1n-ago-sep-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 510000,
@@ -247,7 +299,9 @@
       {
        "id": "escapada-cena-1n-ago-sep-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 840000,
@@ -258,14 +312,18 @@
     {
      "id": "escapada-cena-1n-oct-dic",
      "nombre": {
-      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026",
+      "en": "Valid from October until December 23, 2026",
+      "pt": "Válido de outubro até 23 de dezembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-cena-1n-oct-dic-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 490000,
@@ -274,7 +332,9 @@
       {
        "id": "escapada-cena-1n-oct-dic-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 560000,
@@ -283,7 +343,9 @@
       {
        "id": "escapada-cena-1n-oct-dic-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 930000,
@@ -296,24 +358,32 @@
   {
    "id": "escapada-fin-semana-cena-2n",
    "nombre": {
-    "es": "Escapada Fin de Semana con Cena — 2 noches"
+    "es": "Escapada Fin de Semana con Cena — 2 noches",
+    "en": "Weekend Getaway with Dinner — 2 nights",
+    "pt": "Fim de semana com jantar incluído — 2 noites"
    },
    "foto": "",
    "nota": {
-    "es": "2 noches con cena. Noches de viernes y sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+    "es": "2 noches con cena. Noches de viernes y sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "2 nights with dinner. Friday and Saturday nights. Check-in: 3:00 PM. Check-out: 12:00 PM (Sundays 4:00 PM). Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; access to Health & Spa facilities and gardens; one buffet dinner at Las Vasijas Restaurant for 2 adults with wine included; Sheratoons (children's recreation for ages 6 to 12 with instructors); multi-sports court, game room and outdoor playground; parking and WiFi connection.",
+    "pt": "2 noites com jantar. Sexta e sábado à noite. Check-in: 15h. Check-out: 12h (domingos 16h). Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; acesso às instalações de Saúde e Spa e jardins; um jantar buffet no Restaurante Las Vasijas para 2 adultos com vinho incluído; Sheratoons (recreação infantil para crianças de 6 a 12 anos com instrutores); quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e Wi-Fi."
    },
    "subsecciones": [
     {
      "id": "escapada-cena-2n-ago-sep",
      "nombre": {
-      "es": "Vigencia para Agosto y Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026",
+      "en": "Valid for August and September 2026",
+      "pt": "Válido para agosto e setembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-cena-2n-ago-sep-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 680000,
@@ -322,7 +392,9 @@
       {
        "id": "escapada-cena-2n-ago-sep-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 800000,
@@ -331,7 +403,9 @@
       {
        "id": "escapada-cena-2n-ago-sep-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 1360000,
@@ -342,14 +416,18 @@
     {
      "id": "escapada-cena-2n-oct-dic",
      "nombre": {
-      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026",
+      "en": "Valid from October until December 23, 2026",
+      "pt": "Válido de outubro até 23 de dezembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-cena-2n-oct-dic-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 760000,
@@ -358,7 +436,9 @@
       {
        "id": "escapada-cena-2n-oct-dic-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 880000,
@@ -367,7 +447,9 @@
       {
        "id": "escapada-cena-2n-oct-dic-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 1500000,
@@ -380,24 +462,32 @@
   {
    "id": "escapada-fin-semana-cena-3n",
    "nombre": {
-    "es": "Escapada Fin de Semana con Cena — 3 noches"
+    "es": "Escapada Fin de Semana con Cena — 3 noches",
+    "en": "Weekend Getaway with Dinner — 3 nights",
+    "pt": "Fim de semana com jantar incluído — 3 noites"
    },
    "foto": "",
    "nota": {
-    "es": "3 noches con cena. Noches de jueves a domingo o viernes a lunes. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+    "es": "3 noches con cena. Noches de jueves a domingo o viernes a lunes. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "3 nights with dinner. Nights from Thursday to Sunday or Friday to Monday. Check-in: 3 PM. Check-out: 12 PM (Sundays 4 PM). Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; access to Health & Spa facilities and gardens; one buffet dinner at Las Vasijas Restaurant for 2 adults with wine included; Sheratoons (children's recreation for ages 6 to 12 with instructors); multi-sports court, game room and outdoor playground; parking and Wi-Fi connection.",
+    "pt": "3 noites com jantar. Estadias de quinta a domingo ou de sexta a segunda. Check-in: 15h. Check-out: 12h (domingos até às 16h). Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; acesso às instalações de Saúde e Spa e jardins; um jantar buffet no Restaurante Las Vasijas para 2 adultos com vinho incluído; Sheratoons (recreação infantil para crianças de 6 a 12 anos com instrutores); quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e Wi-Fi."
    },
    "subsecciones": [
     {
      "id": "escapada-cena-3n-ago-sep",
      "nombre": {
-      "es": "Vigencia para Agosto y Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026",
+      "en": "Valid for August and September 2026",
+      "pt": "Válido para agosto e setembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-cena-3n-ago-sep-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 960000,
@@ -406,7 +496,9 @@
       {
        "id": "escapada-cena-3n-ago-sep-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 1130000,
@@ -415,7 +507,9 @@
       {
        "id": "escapada-cena-3n-ago-sep-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 1920000,
@@ -426,14 +520,18 @@
     {
      "id": "escapada-cena-3n-oct-dic",
      "nombre": {
-      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026",
+      "en": "Valid from October until December 23, 2026",
+      "pt": "Válido de outubro até 23 de dezembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-cena-3n-oct-dic-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 1060000,
@@ -442,7 +540,9 @@
       {
        "id": "escapada-cena-3n-oct-dic-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 1240000,
@@ -451,7 +551,9 @@
       {
        "id": "escapada-cena-3n-oct-dic-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 2100000,
@@ -464,24 +566,32 @@
   {
    "id": "noche-romantica",
    "nombre": {
-    "es": "Noche Romántica"
+    "es": "Noche Romántica",
+    "en": "Romantic Night",
+    "pt": "Noite romântica"
    },
    "foto": "",
    "nota": {
-    "es": "1 noche. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas; desayuno buffet en Las Vasijas Restaurante o Room Service en la habitación; acceso a instalaciones de Health & Spa y Jardines; cena romántica en Don Giovanni Ristorante con vino y bebidas sin alcohol; botella de champagne y dulces del chef en la habitación; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi."
+    "es": "1 noche. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas; desayuno buffet en Las Vasijas Restaurante o Room Service en la habitación; acceso a instalaciones de Health & Spa y Jardines; cena romántica en Don Giovanni Ristorante con vino y bebidas sin alcohol; botella de champagne y dulces del chef en la habitación; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi.",
+    "en": "1 night. Friday or Saturday nights. Check-in: 3 PM. Check-out: 12 PM (Sundays 4 PM). Includes: accommodation for two people; buffet breakfast at Las Vasijas Restaurant or room service; access to Health & Spa facilities and gardens; romantic dinner at Don Giovanni Ristorante with wine and non-alcoholic beverages; bottle of champagne and chef's sweets in the room; multi-sports court and games room with pool table, ping pong, and foosball; parking and Wi-Fi connection.",
+    "pt": "1 noite. Sexta ou sábado à noite. Check-in: 15h. Check-out: 12h (domingos até às 16h). Inclui: acomodação para duas pessoas; café da manhã buffet no Restaurante Las Vasijas ou serviço de quarto; acesso às instalações de saúde e bem-estar e aos jardins; jantar romântico no Restaurante Don Giovanni com vinho e bebidas não alcoólicas; garrafa de champanhe e doces do chef no quarto; quadra poliesportiva e sala de jogos com mesa de bilhar, pingue-pongue e pebolim; estacionamento e Wi-Fi."
    },
    "subsecciones": [
     {
      "id": "noche-romantica-ago-sep",
      "nombre": {
-      "es": "Vigencia para Agosto y Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026",
+      "en": "Valid for August and September 2026",
+      "pt": "Válido para agosto e setembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "noche-romantica-ago-sep-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 480000,
@@ -490,7 +600,9 @@
       {
        "id": "noche-romantica-ago-sep-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 540000,
@@ -499,7 +611,9 @@
       {
        "id": "noche-romantica-ago-sep-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 940000,
@@ -510,14 +624,18 @@
     {
      "id": "noche-romantica-oct-dic",
      "nombre": {
-      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026",
+      "en": "Valid from October until December 23, 2026",
+      "pt": "Válido de outubro até 23 de dezembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "noche-romantica-oct-dic-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 530000,
@@ -526,7 +644,9 @@
       {
        "id": "noche-romantica-oct-dic-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 600000,
@@ -535,7 +655,9 @@
       {
        "id": "noche-romantica-oct-dic-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 1040000,
@@ -548,24 +670,32 @@
   {
    "id": "noche-inolvidable",
    "nombre": {
-    "es": "Noche Inolvidable"
+    "es": "Noche Inolvidable",
+    "en": "Unforgettable Night",
+    "pt": "Noite Inesquecível"
    },
    "foto": "",
    "nota": {
-    "es": "1 noche. Noches de lunes a domingos. Check In: 15hs. Check Out: 12hs (domingos 18hs). Incluye: hospedaje para dos personas; desayuno buffet en Las Vasijas Restaurante o Room Service en la habitación; acceso a instalaciones de Health & Spa y Jardines; botella de champagne y dulces del chef en la habitación; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi."
+    "es": "1 noche. Noches de lunes a domingos. Check In: 15hs. Check Out: 12hs (domingos 18hs). Incluye: hospedaje para dos personas; desayuno buffet en Las Vasijas Restaurante o Room Service en la habitación; acceso a instalaciones de Health & Spa y Jardines; botella de champagne y dulces del chef en la habitación; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi.",
+    "en": "1 night. Nights from Monday to Sunday. Check-in: 3 PM. Check-out: 12 PM (Sundays 6 PM). Includes: accommodation for two people; buffet breakfast at Las Vasijas Restaurant or room service; access to Health & Spa facilities and gardens; bottle of champagne and chef's sweets in the room; multi-sports court and games room with pool table, ping pong and foosball; parking and WiFi connection.",
+    "pt": "1 noite. Noites de segunda a domingo. Check-in: 15h. Check-out: 12h (domingos até às 18h). Inclui: acomodação para duas pessoas; café da manhã buffet no Restaurante Las Vasijas ou serviço de quarto; acesso às instalações de saúde e spa e aos jardins; garrafa de champanhe e doces do chef no quarto; quadra poliesportiva e sala de jogos com mesa de bilhar, pingue-pongue e pebolim; estacionamento e Wi-Fi."
    },
    "subsecciones": [
     {
      "id": "noche-inolvidable-ago-sep",
      "nombre": {
-      "es": "Vigencia para Agosto y Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026",
+      "en": "Valid for August and September 2026",
+      "pt": "Válido para agosto e setembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "noche-inolvidable-ago-sep-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 380000,
@@ -574,7 +704,9 @@
       {
        "id": "noche-inolvidable-ago-sep-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 440000,
@@ -583,7 +715,9 @@
       {
        "id": "noche-inolvidable-ago-sep-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 740000,
@@ -594,14 +728,18 @@
     {
      "id": "noche-inolvidable-oct-dic",
      "nombre": {
-      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026",
+      "en": "Valid from October until December 23, 2026",
+      "pt": "Válido de outubro até 23 de dezembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "noche-inolvidable-oct-dic-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 420000,
@@ -610,7 +748,9 @@
       {
        "id": "noche-inolvidable-oct-dic-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 490000,
@@ -619,7 +759,9 @@
       {
        "id": "noche-inolvidable-oct-dic-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 820000,
@@ -632,24 +774,32 @@
   {
    "id": "escapada-amigas",
    "nombre": {
-    "es": "Escapada de Amigas"
+    "es": "Escapada de Amigas",
+    "en": "Girls' Getaway",
+    "pt": "Férias entre amigas"
    },
    "foto": "",
    "nota": {
-    "es": "1 noche. Noches de viernes. Check In: 15hs. Check Out: 12hs. Incluye: desayuno buffet en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; cena buffet con vino y bebidas sin alcohol incluidas en Las Vasijas Restaurante; un trago en el Lobby Bar por persona; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi."
+    "es": "1 noche. Noches de viernes. Check In: 15hs. Check Out: 12hs. Incluye: desayuno buffet en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; cena buffet con vino y bebidas sin alcohol incluidas en Las Vasijas Restaurante; un trago en el Lobby Bar por persona; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi.",
+    "en": "1 night. Friday nights. Check-in: 3:00 PM. Check-out: 12:00 PM. Includes: buffet breakfast at Las Vasijas Restaurant; access to Health & Spa facilities and gardens; buffet dinner with wine and non-alcoholic beverages included at Las Vasijas Restaurant; one drink per person at the Lobby Bar; multi-sports court and games room with pool table, ping pong and foosball; parking and WiFi connection.",
+    "pt": "1 noite. Sextas-feiras. Check-in: 15h. Check-out: 12h. Inclui: café da manhã buffet no Restaurante Las Vasijas; acesso às instalações de saúde e spa e aos jardins; jantar buffet com vinho e bebidas não alcoólicas incluídas no Restaurante Las Vasijas; uma bebida por pessoa no Lobby Bar; quadra poliesportiva e sala de jogos com mesa de bilhar, pingue-pongue e pebolim; estacionamento e Wi-Fi."
    },
    "subsecciones": [
     {
      "id": "escapada-amigas-ago-sep",
      "nombre": {
-      "es": "Vigencia para Agosto y Septiembre 2026"
+      "es": "Vigencia para Agosto y Septiembre 2026",
+      "en": "Valid for August and September 2026",
+      "pt": "Válido para agosto e setembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-amigas-ago-sep-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas"
+        "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas",
+        "en": "Classic Room Front View (36 m²) — 2 people",
+        "pt": "Quarto Clássico com Vista Frontal (36 m²) — 2 pessoas"
        },
        "descripcion": {},
        "precio": 430000,
@@ -658,7 +808,9 @@
       {
        "id": "escapada-amigas-ago-sep-2",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas"
+        "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas",
+        "en": "Classic Room Front View (36 m²) — 3 people",
+        "pt": "Quarto Clássico com Vista Frontal (36 m²) — 3 pessoas"
        },
        "descripcion": {},
        "precio": 650000,
@@ -667,7 +819,9 @@
       {
        "id": "escapada-amigas-ago-sep-3",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas"
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas",
+        "en": "Luxury Room with Garden View (36 m²) — 2 people",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²) — 2 pessoas"
        },
        "descripcion": {},
        "precio": 515000,
@@ -676,7 +830,9 @@
       {
        "id": "escapada-amigas-ago-sep-4",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas"
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas",
+        "en": "Luxury Room with Garden View (36 m²) — 3 people",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²) — 3 pessoas"
        },
        "descripcion": {},
        "precio": 710000,
@@ -687,14 +843,18 @@
     {
      "id": "escapada-amigas-oct-dic",
      "nombre": {
-      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026"
+      "es": "Vigencia desde Octubre hasta el 23 Diciembre 2026",
+      "en": "Valid from October until December 23, 2026",
+      "pt": "Válido de outubro até 23 de dezembro de 2026."
      },
      "nota": {},
      "items": [
       {
        "id": "escapada-amigas-oct-dic-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas"
+        "es": "Habitación Clásica Vista Frente (36 m²) — 2 personas",
+        "en": "Classic Room Front View (36 m²) — 2 people",
+        "pt": "Quarto Clássico com Vista Frontal (36 m²) — 2 pessoas"
        },
        "descripcion": {},
        "precio": 480000,
@@ -703,7 +863,9 @@
       {
        "id": "escapada-amigas-oct-dic-2",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas"
+        "es": "Habitación Clásica Vista Frente (36 m²) — 3 personas",
+        "en": "Classic Room Front View (36 m²) — 3 people",
+        "pt": "Quarto Clássico com Vista Frontal (36 m²) — 3 pessoas"
        },
        "descripcion": {},
        "precio": 720000,
@@ -712,7 +874,9 @@
       {
        "id": "escapada-amigas-oct-dic-3",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas"
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas",
+        "en": "Luxury Room with Garden View (36 m²) — 2 people",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²) — 2 pessoas"
        },
        "descripcion": {},
        "precio": 570000,
@@ -721,7 +885,9 @@
       {
        "id": "escapada-amigas-oct-dic-4",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas"
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas",
+        "en": "Luxury Room with Garden View (36 m²) — 3 people",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²) — 3 pessoas"
        },
        "descripcion": {},
        "precio": 790000,
@@ -734,26 +900,36 @@
   {
    "id": "fines-de-semana-largos",
    "nombre": {
-    "es": "Fines de Semana Largos"
+    "es": "Fines de Semana Largos",
+    "en": "Long Weekends",
+    "pt": "Fins de semana prolongados"
    },
    "foto": "",
    "nota": {
-    "es": "Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; acceso a instalaciones de Health & Spa y Jardines; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi."
+    "es": "Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; acceso a instalaciones de Health & Spa y Jardines; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; buffet dinner at Las Vasijas Restaurant for 2 adults with wine included; access to Health & Spa facilities and Gardens; Sheratons (children's recreation 6 to 12 years with teachers); multi-sports court, game room and outdoor playground; parking and WiFi connection.",
+    "pt": "Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; jantar buffet no Restaurante Las Vasijas para 2 adultos com vinho incluído; acesso às instalações de Saúde e Spa e Jardins; Sheratons (recreação infantil de 6 a 12 anos com professores); quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e conexão Wi-Fi."
    },
    "subsecciones": [
     {
      "id": "finde-largo-octubre",
      "nombre": {
-      "es": "Octubre — Viernes 9 al Lunes 12"
+      "es": "Octubre — Viernes 9 al Lunes 12",
+      "en": "October — Friday 9 to Monday 12",
+      "pt": "Outubro — sexta-feira, 9 a segunda-feira, 12"
      },
      "nota": {
-      "es": "Tarifas por noche | Estadía con mínimo de 2 noches\nCheck In: 15hs. Check Out: 12hs | Late check out 16hs lunes 12/10."
+      "es": "Tarifas por noche | Estadía con mínimo de 2 noches\nCheck In: 15hs. Check Out: 12hs | Late check out 16hs lunes 12/10.",
+      "en": "Rates per night | Minimum 2-night stay\nCheck-in: 3 PM. Check-out: 12 PM | Late check-out 4 PM on Monday, October 12th.",
+      "pt": "Tarifas por noite | Estadia mínima de 2 noites\nCheck-in: 15h. Check-out: 12h | Check-out tardio às 16h na segunda-feira, 12 de outubro."
      },
      "items": [
       {
        "id": "finde-largo-octubre-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 380000,
@@ -762,7 +938,9 @@
       {
        "id": "finde-largo-octubre-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 440000,
@@ -771,7 +949,9 @@
       {
        "id": "finde-largo-octubre-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 750000,
@@ -782,16 +962,22 @@
     {
      "id": "finde-largo-noviembre",
      "nombre": {
-      "es": "Noviembre — Viernes 20 al Lunes 23"
+      "es": "Noviembre — Viernes 20 al Lunes 23",
+      "en": "November — Friday 20 to Monday 23",
+      "pt": "Novembro — sexta-feira, 20 a segunda-feira, 23"
      },
      "nota": {
-      "es": "Tarifas por noche | Estadía con mínimo de 2 noches\nCheck In: 15hs. Check Out: 12hs | Late check out 16hs lunes 23/11."
+      "es": "Tarifas por noche | Estadía con mínimo de 2 noches\nCheck In: 15hs. Check Out: 12hs | Late check out 16hs lunes 23/11.",
+      "en": "Rates per night | Minimum 2-night stay\nCheck-in: 3 PM. Check-out: 12 PM | Late check-out 4 PM Monday, November 23.",
+      "pt": "Tarifas por noite | Estadia mínima de 2 noites\nCheck-in: 15h. Check-out: 12h | Check-out tardio às 16h na segunda-feira, 23 de novembro."
      },
      "items": [
       {
        "id": "finde-largo-noviembre-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 380000,
@@ -800,7 +986,9 @@
       {
        "id": "finde-largo-noviembre-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 440000,
@@ -809,7 +997,9 @@
       {
        "id": "finde-largo-noviembre-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 750000,
@@ -820,16 +1010,22 @@
     {
      "id": "finde-largo-diciembre",
      "nombre": {
-      "es": "Diciembre — Viernes 4 al Martes 8"
+      "es": "Diciembre — Viernes 4 al Martes 8",
+      "en": "December — Friday 4th to Tuesday 8th",
+      "pt": "Dezembro — Sexta-feira, 4 a terça-feira, 8"
      },
      "nota": {
-      "es": "Tarifas por noche | Estadía con mínimo de 2 noches\nCheck In: 15hs. Check Out: 12hs | Late check out 16hs martes 08/12."
+      "es": "Tarifas por noche | Estadía con mínimo de 2 noches\nCheck In: 15hs. Check Out: 12hs | Late check out 16hs martes 08/12.",
+      "en": "Rates per night | Minimum 2-night stay\nCheck-in: 3 PM. Check-out: 12 PM | Late check-out 4 PM Tuesday, December 8th.",
+      "pt": "Tarifas por noite | Estadia mínima de 2 noites\nCheck-in: 15h. Check-out: 12h | Check-out tardio às 16h na terça-feira, 8 de dezembro."
      },
      "items": [
       {
        "id": "finde-largo-diciembre-1",
        "nombre": {
-        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)"
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto clássico com vista frontal ou lateral (36 m²)"
        },
        "descripcion": {},
        "precio": 380000,
@@ -838,7 +1034,9 @@
       {
        "id": "finde-largo-diciembre-2",
        "nombre": {
-        "es": "Habitación de Lujo Vista Jardín (36 m²)"
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Luxury Room with Garden View (36 m²)",
+        "pt": "Quarto de luxo com vista para o jardim (36 m²)"
        },
        "descripcion": {},
        "precio": 440000,
@@ -847,7 +1045,9 @@
       {
        "id": "finde-largo-diciembre-3",
        "nombre": {
-        "es": "Habitación Suite — dos ambientes (72 m²)"
+        "es": "Habitación Suite — dos ambientes (72 m²)",
+        "en": "Suite Room — two rooms (72 m²)",
+        "pt": "Quarto Suíte — dois quartos (72 m²)"
        },
        "descripcion": {},
        "precio": 750000,
@@ -860,20 +1060,28 @@
   {
    "id": "extras",
    "nombre": {
-    "es": "Extras"
+    "es": "Extras",
+    "en": "Extras",
+    "pt": "Extras"
    },
    "foto": "",
    "nota": {
-    "es": "Cargos adicionales aplicables sobre cualquiera de los paquetes de hospedaje."
+    "es": "Cargos adicionales aplicables sobre cualquiera de los paquetes de hospedaje.",
+    "en": "Additional charges may apply to any of the accommodation packages.",
+    "pt": "Custos adicionais podem ser aplicados a qualquer um dos pacotes de hospedagem."
    },
    "items": [
     {
      "id": "extra-cama-roll-away",
      "nombre": {
-      "es": "Cama extra roll away (1,10m x 2m) para menor en Family Plan"
+      "es": "Cama extra roll away (1,10m x 2m) para menor en Family Plan",
+      "en": "Extra roll away bed (1.10m x 2m) for child in Family Plan",
+      "pt": "Cama extra dobrável (1,10 m x 2 m) para criança no Plano Familiar"
      },
      "descripcion": {
-      "es": "Por noche, + IVA (21%)."
+      "es": "Por noche, + IVA (21%).",
+      "en": "Per night, + VAT (21%).",
+      "pt": "Por noite, mais IVA (21%)."
      },
      "precio": 70000,
      "tags": []
@@ -881,10 +1089,14 @@
     {
      "id": "extra-tercer-adulto",
      "nombre": {
-      "es": "Tercer adulto (mayor de 13 años) en habitación"
+      "es": "Tercer adulto (mayor de 13 años) en habitación",
+      "en": "Third adult (over 13 years old) in room",
+      "pt": "Terceiro adulto (maior de 13 anos) no quarto"
      },
      "descripcion": {
-      "es": "Por noche, + IVA (21%). Incluye cama adicional, desayuno buffet y acceso al spa."
+      "es": "Por noche, + IVA (21%). Incluye cama adicional, desayuno buffet y acceso al spa.",
+      "en": "Per night, + VAT (21%). Includes extra bed, buffet breakfast and access to the spa.",
+      "pt": "Por noite, + IVA (21%). Inclui cama extra, café da manhã buffet e acesso ao spa."
      },
      "precio": 130000,
      "tags": []
