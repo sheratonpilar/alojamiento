@@ -223,6 +223,29 @@ a { color: inherit; }
   color: var(--ink-soft);
 }
 
+.subsection {
+  margin-top: 1.6rem;
+  padding-top: 1.2rem;
+  border-top: 1px dashed var(--rule);
+}
+.subsection:first-of-type { margin-top: 0.6rem; }
+.subsection.is-hidden { display: none; }
+.subsection-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin: 0 0 0.3rem;
+}
+.subsection-note {
+  margin: 0 0 0.9rem;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+
 .item {
   padding: 1rem 0;
   border-bottom: 1px solid var(--rule);
