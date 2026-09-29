@@ -1,15 +1,16 @@
 {
  "carta": {
   "id": "alojamiento",
-  "nombre": "Alojamiento",
+  "nombre": "Paquetes de hospedaje",
   "tema": "spa",
   "logo": "hotel-spa.svg",
+  "bajada": "",
   "idiomas": [
    "es",
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-29T13:37:23.626Z",
+  "actualizado": "2026-09-29T14:07:04.178Z",
   "ver_tambien": "",
   "pie": {
    "es": "Tarifas expresadas en pesos argentinos, de cupo limitado y sujeto a modificación sin previo aviso.\nTodas las tarifas son + IVA \nPanamericana Km. 49,5. Pilar\nReservas: (0230) 438 5055/6 · WhatsApp: +54 9 11 3135-3098 reservas@pilar.sheraton.com.ar"
