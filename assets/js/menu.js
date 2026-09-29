@@ -124,6 +124,10 @@
         itemEl.classList.toggle('is-hidden', !match);
         if (match) visiblesEnSeccion++;
       });
+      secEl.querySelectorAll('.subsection').forEach(function (subEl) {
+        var visiblesEnSub = subEl.querySelectorAll('.item:not(.is-hidden)').length;
+        subEl.classList.toggle('is-hidden', visiblesEnSub === 0);
+      });
       secEl.classList.toggle('is-hidden', visiblesEnSeccion === 0);
       if (visiblesEnSeccion > 0) huboResultados = true;
 
@@ -180,7 +184,7 @@
         section.appendChild(el('p', 'section-note', texto(sec.nota)));
       }
 
-      sec.items.forEach(function (item) {
+      function renderItem(item) {
         var row = el('article', 'item');
         row.dataset.buscar = normalizar(texto(item.nombre) + ' ' + texto(item.descripcion));
 
@@ -199,7 +203,20 @@
           if (label) row.appendChild(el('span', 'item-tag', label));
         });
 
-        section.appendChild(row);
+        return row;
+      }
+
+      (sec.items || []).forEach(function (item) { section.appendChild(renderItem(item)); });
+
+      (sec.subsecciones || []).forEach(function (sub) {
+        var subBlock = el('div', 'subsection');
+        subBlock.id = sub.id;
+        subBlock.appendChild(el('h3', 'subsection-title', texto(sub.nombre)));
+        if (texto(sub.nota)) {
+          subBlock.appendChild(el('p', 'subsection-note', texto(sub.nota)));
+        }
+        sub.items.forEach(function (item) { subBlock.appendChild(renderItem(item)); });
+        section.appendChild(subBlock);
       });
 
       app.appendChild(section);
