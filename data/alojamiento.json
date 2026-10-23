@@ -1,0 +1,1085 @@
+{
+ "carta": {
+  "id": "alojamiento",
+  "nombre": "Paquetes de hospedaje",
+  "bajada": {
+   "es": "Tarifas de hospedaje hasta el 23/12/2026"
+  },
+  "pie": {
+   "es": "Tarifas expresadas en pesos argentinos, de cupo limitado y sujeto a modificación sin previo aviso.\nTodas las tarifas son + IVA\nPanamericana Km. 49,5. Pilar\nReservas: (0230) 438 5055/6\nWhatsApp: +54 9 11 3135-3098\nreservas@pilar.sheraton.com.ar",
+   "en": "Rates are expressed in Argentine pesos, subject to availability and change without notice.\n\nAll rates are plus VAT.\nPanamericana Km. 49.5, Pilar\nReservations: (0230) 438 5055/6\nWhatsApp: +54 9 11 3135-3098\nreservas@pilar.sheraton.com.ar",
+   "pt": "As tarifas são expressas em pesos argentinos, sujeitas à disponibilidade e a alterações sem aviso prévio.\n\nTodas as tarifas são acrescidas de IVA.\n\nPanamericana Km. 49.5, Pilar\nReservas: (0230) 438 5055/6\nWhatsApp: +54 9 11 3135-3098\nreservas@pilar.sheraton.com.ar"
+  },
+  "idiomas": [
+   "es",
+   "en",
+   "pt"
+  ],
+  "whatsapp": "5491131353098",
+  "mail": "reservas@pilar.sheraton.com.ar",
+  "actualizado": "2026-10-23T17:20:39.776Z"
+ },
+ "simbolo": "$",
+ "tags": {
+  "MAYORES_16": {
+   "nombre": {
+    "es": "Solo mayores de 16 años",
+    "en": "Adults (16+) only",
+    "pt": "Somente maiores de 16 anos"
+   }
+  },
+  "CUOTAS": {
+   "nombre": {
+    "es": "Hasta 3 cuotas sin interés",
+    "en": "Up to 3 interest-free installments",
+    "pt": "Até 3 parcelas sem juros"
+   },
+   "estilo": "cuotas",
+   "cuotas": 3
+  }
+ },
+ "menu": [
+  {
+   "id": "actuales",
+   "nombre": {
+    "es": "Precios actuales",
+    "en": "Current rates",
+    "pt": "Tarifas atuais"
+   },
+   "nota": {
+    "es": "Paquetes y tarifas vigentes",
+    "en": "Packages and rates in effect",
+    "pt": "Pacotes e tarifas vigentes"
+   },
+   "grupo": "tarifas",
+   "mostrar": "vigentes"
+  },
+  {
+   "id": "findes",
+   "nombre": {
+    "es": "Fines de semana largos",
+    "en": "Long weekends",
+    "pt": "Fins de semana prolongados"
+   },
+   "nota": {
+    "es": "Tarifas especiales por fecha",
+    "en": "Special rates by date",
+    "pt": "Tarifas especiais por data"
+   },
+   "grupo": "findes",
+   "mostrar": "vigentes_y_proximas"
+  },
+  {
+   "id": "proximos",
+   "nombre": {
+    "es": "Próximos precios",
+    "en": "Upcoming rates",
+    "pt": "Próximas tarifas"
+   },
+   "nota": {
+    "es": "Tarifas de la próxima temporada",
+    "en": "Rates for the next season",
+    "pt": "Tarifas da próxima temporada"
+   },
+   "grupo": "tarifas",
+   "mostrar": "proximas"
+  },
+  {
+   "id": "vacaciones",
+   "nombre": {
+    "es": "Vacaciones",
+    "en": "Holidays",
+    "pt": "Férias"
+   },
+   "nota": {
+    "es": "Paquetes especiales de temporada",
+    "en": "Seasonal packages",
+    "pt": "Pacotes especiais de temporada"
+   },
+   "grupo": "vacaciones",
+   "mostrar": "vigentes_y_proximas"
+  }
+ ],
+ "paquetes": [
+  {
+   "id": "escapada-dias-semana",
+   "nombre": {
+    "es": "Escapada Días de Semana",
+    "en": "Weekday Getaway",
+    "pt": "Escapada durante a semana"
+   },
+   "nota": {
+    "es": "1 noche. Noches de domingos a jueves. Check In: 15hs (domingos 18hs). Check Out: 12hs. Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "1 night. Sunday to Thursday nights. Check-in: 3 PM (6 PM Sundays). Check-out: 12 PM. Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; access to Health & Spa facilities and gardens; multi-sports court, games room and outdoor playground; parking and WiFi connection.",
+    "pt": "1 noite. De domingo a quinta-feira. Check-in: 15h (18h aos domingos). Check-out: 12h. Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; acesso às instalações de Saúde e Spa e jardins; quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e Wi-Fi."
+   },
+   "destacado": {},
+   "tags": [],
+   "foto": "",
+   "grupos": [
+    "tarifas"
+   ],
+   "desde": "",
+   "hasta": "",
+   "items": [],
+   "vigencias": [
+    {
+     "id": "escapada-dias-semana-v1",
+     "nombre": {
+      "es": "Hasta el 31/10/2026",
+      "en": "Until 31/10/2026",
+      "pt": "Até 31/10/2026"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "",
+     "hasta": "2026-10-31",
+     "items": [
+      {
+       "id": "escapada-dias-semana-v1-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 280000,
+       "tags": []
+      },
+      {
+       "id": "escapada-dias-semana-v1-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 330000,
+       "tags": []
+      },
+      {
+       "id": "escapada-dias-semana-v1-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 560000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "escapada-dias-semana-v2",
+     "nombre": {
+      "es": "Del 1/11/2026 al 28/2/2027",
+      "en": "From 1/11/2026 to 28/2/2027",
+      "pt": "De 1/11/2026 a 28/2/2027"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "2026-11-01",
+     "hasta": "2027-02-28",
+     "items": [
+      {
+       "id": "escapada-dias-semana-v2-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 300000,
+       "tags": []
+      },
+      {
+       "id": "escapada-dias-semana-v2-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 360000,
+       "tags": []
+      },
+      {
+       "id": "escapada-dias-semana-v2-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 600000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "escapada-fin-semana",
+   "nombre": {
+    "es": "Escapada de Fin de Semana",
+    "en": "Weekend Getaway",
+    "pt": "Escapada de fim de semana"
+   },
+   "nota": {
+    "es": "1 noche. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "1 night. Friday or Saturday nights. Check-in: 3:00 PM. Check-out: 12:00 PM (Sundays 4:00 PM). Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; access to Health & Spa facilities and Gardens; Sheratons (children's recreation for ages 6 to 12 with instructors); multi-sports court, game room and outdoor playground; parking and WiFi connection.",
+    "pt": "1 noite. Sexta ou sábado à noite. Check-in: 15h. Check-out: 12h (domingos 16h). Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; acesso às instalações de Saúde e Spa e Jardins; Sheratons (recreação infantil para crianças de 6 a 12 anos com instrutores); quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e conexão Wi-Fi."
+   },
+   "destacado": {
+    "es": "Contratando 2 noches, incluye una cena buffet en Las Vasijas Restaurante para 2 adultos con vino.",
+    "en": "Book 2 nights and enjoy one buffet dinner at Las Vasijas Restaurant for 2 adults, wine included.",
+    "pt": "Reservando 2 noites, inclui um jantar buffet no Restaurante Las Vasijas para 2 adultos com vinho."
+   },
+   "tags": [],
+   "foto": "",
+   "grupos": [
+    "tarifas"
+   ],
+   "desde": "",
+   "hasta": "",
+   "items": [],
+   "vigencias": [
+    {
+     "id": "escapada-fin-semana-v1",
+     "nombre": {
+      "es": "Hasta el 31/10/2026",
+      "en": "Until 31/10/2026",
+      "pt": "Até 31/10/2026"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "",
+     "hasta": "2026-10-31",
+     "items": [
+      {
+       "id": "escapada-fin-semana-v1-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 340000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-v1-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 400000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-v1-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 680000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "escapada-fin-semana-v2",
+     "nombre": {
+      "es": "Del 1/11/2026 al 28/2/2027",
+      "en": "From 1/11/2026 to 28/2/2027",
+      "pt": "De 1/11/2026 a 28/2/2027"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "2026-11-01",
+     "hasta": "2027-02-28",
+     "items": [
+      {
+       "id": "escapada-fin-semana-v2-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 360000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-v2-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 420000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-v2-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 720000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "escapada-fin-semana-cena-1n",
+   "nombre": {
+    "es": "Escapada de Fin de Semana con Cena",
+    "en": "Weekend Getaway with Dinner",
+    "pt": "Fim de semana fora com jantar incluído"
+   },
+   "nota": {
+    "es": "1 noche con cena. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; una cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "1 night with dinner. Friday or Saturday nights. Check-in: 3:00 PM. Check-out: 12:00 PM (Sundays 4:00 PM). Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; access to Health & Spa facilities and gardens; one buffet dinner at Las Vasijas Restaurant for two adults with wine included; Sheratoons (children's recreation for ages 6 to 12 with instructors); multi-sports court, game room and outdoor playground; parking and Wi-Fi connection.",
+    "pt": "1 noite com jantar. Sexta ou sábado à noite. Check-in: 15h. Check-out: 12h (domingos 16h). Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; acesso às instalações de Saúde e Spa e jardins; um jantar buffet no Restaurante Las Vasijas para dois adultos com vinho incluído; Sheratoons (recreação infantil para crianças de 6 a 12 anos com instrutores); quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e Wi-Fi."
+   },
+   "destacado": {},
+   "tags": [],
+   "foto": "",
+   "grupos": [
+    "tarifas"
+   ],
+   "desde": "",
+   "hasta": "",
+   "items": [],
+   "vigencias": [
+    {
+     "id": "escapada-fin-semana-cena-1n-v1",
+     "nombre": {
+      "es": "Hasta el 31/10/2026",
+      "en": "Until 31/10/2026",
+      "pt": "Até 31/10/2026"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "",
+     "hasta": "2026-10-31",
+     "items": [
+      {
+       "id": "escapada-fin-semana-cena-1n-v1-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-cena-1n-v1-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 510000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-cena-1n-v1-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 840000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "escapada-fin-semana-cena-1n-v2",
+     "nombre": {
+      "es": "Del 1/11/2026 al 28/2/2027",
+      "en": "From 1/11/2026 to 28/2/2027",
+      "pt": "De 1/11/2026 a 28/2/2027"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "2026-11-01",
+     "hasta": "2027-02-28",
+     "items": [
+      {
+       "id": "escapada-fin-semana-cena-1n-v2-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 490000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-cena-1n-v2-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 550000,
+       "tags": []
+      },
+      {
+       "id": "escapada-fin-semana-cena-1n-v2-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 850000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noche-romantica",
+   "nombre": {
+    "es": "Noche Romántica",
+    "en": "Romantic Night",
+    "pt": "Noite romântica"
+   },
+   "nota": {
+    "es": "1 noche. Noches de viernes o sábados. Check In: 15hs. Check Out: 12hs (domingos 16hs). Incluye: hospedaje para dos personas; desayuno buffet en Las Vasijas Restaurante o Room Service en la habitación; acceso a instalaciones de Health & Spa y Jardines; cena romántica en Don Giovanni Ristorante con vino y bebidas sin alcohol; botella de champagne y dulces del chef en la habitación; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi.",
+    "en": "1 night. Friday or Saturday nights. Check-in: 3 PM. Check-out: 12 PM (Sundays 4 PM). Includes: accommodation for two people; buffet breakfast at Las Vasijas Restaurant or room service; access to Health & Spa facilities and gardens; romantic dinner at Don Giovanni Ristorante with wine and non-alcoholic beverages; bottle of champagne and chef's sweets in the room; multi-sports court and games room with pool table, ping pong, and foosball; parking and Wi-Fi connection.",
+    "pt": "1 noite. Sexta ou sábado à noite. Check-in: 15h. Check-out: 12h (domingos até às 16h). Inclui: acomodação para duas pessoas; café da manhã buffet no Restaurante Las Vasijas ou serviço de quarto; acesso às instalações de saúde e bem-estar e aos jardins; jantar romântico no Restaurante Don Giovanni com vinho e bebidas não alcoólicas; garrafa de champanhe e doces do chef no quarto; quadra poliesportiva e sala de jogos com mesa de bilhar, pingue-pongue e pebolim; estacionamento e Wi-Fi."
+   },
+   "destacado": {},
+   "tags": [],
+   "foto": "",
+   "grupos": [
+    "tarifas"
+   ],
+   "desde": "",
+   "hasta": "",
+   "items": [],
+   "vigencias": [
+    {
+     "id": "noche-romantica-v1",
+     "nombre": {
+      "es": "Hasta el 31/10/2026",
+      "en": "Until 31/10/2026",
+      "pt": "Até 31/10/2026"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "",
+     "hasta": "2026-10-31",
+     "items": [
+      {
+       "id": "noche-romantica-v1-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 480000,
+       "tags": []
+      },
+      {
+       "id": "noche-romantica-v1-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 540000,
+       "tags": []
+      },
+      {
+       "id": "noche-romantica-v1-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 940000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "noche-romantica-v2",
+     "nombre": {
+      "es": "Del 1/11/2026 al 28/2/2027",
+      "en": "From 1/11/2026 to 28/2/2027",
+      "pt": "De 1/11/2026 a 28/2/2027"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "2026-11-01",
+     "hasta": "2027-02-28",
+     "items": [
+      {
+       "id": "noche-romantica-v2-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 510000,
+       "tags": []
+      },
+      {
+       "id": "noche-romantica-v2-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 580000,
+       "tags": []
+      },
+      {
+       "id": "noche-romantica-v2-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 990000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noche-inolvidable",
+   "nombre": {
+    "es": "Noche Inolvidable",
+    "en": "Unforgettable Night",
+    "pt": "Noite Inesquecível"
+   },
+   "nota": {
+    "es": "1 noche. Noches de lunes a domingos. Check In: 15hs. Check Out: 12hs (domingos 18hs). Incluye: hospedaje para dos personas; desayuno buffet en Las Vasijas Restaurante o Room Service en la habitación; acceso a instalaciones de Health & Spa y Jardines; botella de champagne y dulces del chef en la habitación; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi.",
+    "en": "1 night. Nights from Monday to Sunday. Check-in: 3 PM. Check-out: 12 PM (Sundays 6 PM). Includes: accommodation for two people; buffet breakfast at Las Vasijas Restaurant or room service; access to Health & Spa facilities and gardens; bottle of champagne and chef's sweets in the room; multi-sports court and games room with pool table, ping pong and foosball; parking and WiFi connection.",
+    "pt": "1 noite. Noites de segunda a domingo. Check-in: 15h. Check-out: 12h (domingos até às 18h). Inclui: acomodação para duas pessoas; café da manhã buffet no Restaurante Las Vasijas ou serviço de quarto; acesso às instalações de saúde e spa e aos jardins; garrafa de champanhe e doces do chef no quarto; quadra poliesportiva e sala de jogos com mesa de bilhar, pingue-pongue e pebolim; estacionamento e Wi-Fi."
+   },
+   "destacado": {},
+   "tags": [],
+   "foto": "",
+   "grupos": [
+    "tarifas"
+   ],
+   "desde": "",
+   "hasta": "",
+   "items": [],
+   "vigencias": [
+    {
+     "id": "noche-inolvidable-v1",
+     "nombre": {
+      "es": "Hasta el 31/10/2026",
+      "en": "Until 31/10/2026",
+      "pt": "Até 31/10/2026"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "",
+     "hasta": "2026-10-31",
+     "items": [
+      {
+       "id": "noche-inolvidable-v1-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 380000,
+       "tags": []
+      },
+      {
+       "id": "noche-inolvidable-v1-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "noche-inolvidable-v1-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 740000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "noche-inolvidable-v2",
+     "nombre": {
+      "es": "Del 1/11/2026 al 28/2/2027",
+      "en": "From 1/11/2026 to 28/2/2027",
+      "pt": "De 1/11/2026 a 28/2/2027"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "2026-11-01",
+     "hasta": "2027-02-28",
+     "items": [
+      {
+       "id": "noche-inolvidable-v2-habitacion-clasica-vista-frente-o-laterales",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 400000,
+       "tags": []
+      },
+      {
+       "id": "noche-inolvidable-v2-habitacion-de-lujo-vista-jardin",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 460000,
+       "tags": []
+      },
+      {
+       "id": "noche-inolvidable-v2-habitacion-suite-deluxe-dos-ambientes",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 800000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "escapada-amigas",
+   "nombre": {
+    "es": "Escapada de Amigas",
+    "en": "Girls' Getaway",
+    "pt": "Férias entre amigas"
+   },
+   "nota": {
+    "es": "1 noche. Noches de viernes. Check In: 15hs. Check Out: 12hs. Incluye: desayuno buffet en Las Vasijas Restaurante; acceso a instalaciones de Health & Spa y Jardines; cena buffet con vino y bebidas sin alcohol incluidas en Las Vasijas Restaurante; un trago en el Lobby Bar por persona; cancha multideporte y sala de juegos con mesa de pool, ping pong y metegol; estacionamiento y conexión WiFi.",
+    "en": "1 night. Friday nights. Check-in: 3:00 PM. Check-out: 12:00 PM. Includes: buffet breakfast at Las Vasijas Restaurant; access to Health & Spa facilities and gardens; buffet dinner with wine and non-alcoholic beverages included at Las Vasijas Restaurant; one drink per person at the Lobby Bar; multi-sports court and games room with pool table, ping pong and foosball; parking and WiFi connection.",
+    "pt": "1 noite. Sextas-feiras. Check-in: 15h. Check-out: 12h. Inclui: café da manhã buffet no Restaurante Las Vasijas; acesso às instalações de saúde e spa e aos jardins; jantar buffet com vinho e bebidas não alcoólicas incluídas no Restaurante Las Vasijas; uma bebida por pessoa no Lobby Bar; quadra poliesportiva e sala de jogos com mesa de bilhar, pingue-pongue e pebolim; estacionamento e Wi-Fi."
+   },
+   "destacado": {},
+   "tags": [],
+   "foto": "",
+   "grupos": [
+    "tarifas"
+   ],
+   "desde": "",
+   "hasta": "",
+   "items": [],
+   "vigencias": [
+    {
+     "id": "escapada-amigas-v1",
+     "nombre": {
+      "es": "Hasta el 31/10/2026",
+      "en": "Until 31/10/2026",
+      "pt": "Até 31/10/2026"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "",
+     "hasta": "2026-10-31",
+     "items": [
+      {
+       "id": "escapada-amigas-v1-habitacion-clasica-vista-frente-o-laterales-2-personas",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²) — 2 personas",
+        "en": "Classic Room with Front or Side View (36 m²) — 2 people",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²) — 2 pessoas"
+       },
+       "precio": 430000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v1-habitacion-clasica-vista-frente-o-laterales-3-personas",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²) — 3 personas",
+        "en": "Classic Room with Front or Side View (36 m²) — 3 people",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²) — 3 pessoas"
+       },
+       "precio": 650000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v1-habitacion-de-lujo-vista-jardin-2-personas",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas",
+        "en": "Deluxe Room with Garden View (36 m²) — 2 people",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²) — 2 pessoas"
+       },
+       "precio": 515000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v1-habitacion-de-lujo-vista-jardin-3-personas",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas",
+        "en": "Deluxe Room with Garden View (36 m²) — 3 people",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²) — 3 pessoas"
+       },
+       "precio": 710000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v1-habitacion-suite-deluxe-dos-ambientes-2-personas",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²) — 2 personas",
+        "en": "Deluxe Suite — two rooms (72 m²) — 2 people",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²) — 2 pessoas"
+       },
+       "precio": 860000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v1-habitacion-suite-deluxe-dos-ambientes-3-personas",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²) — 3 personas",
+        "en": "Deluxe Suite — two rooms (72 m²) — 3 people",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²) — 3 pessoas"
+       },
+       "precio": 1050000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "escapada-amigas-v2",
+     "nombre": {
+      "es": "Del 1/11/2026 al 28/2/2027",
+      "en": "From 1/11/2026 to 28/2/2027",
+      "pt": "De 1/11/2026 a 28/2/2027"
+     },
+     "nota": {},
+     "grupos": [
+      "tarifas"
+     ],
+     "desde": "2026-11-01",
+     "hasta": "2027-02-28",
+     "items": [
+      {
+       "id": "escapada-amigas-v2-habitacion-clasica-vista-frente-o-laterales-2-personas",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²) — 2 personas",
+        "en": "Classic Room with Front or Side View (36 m²) — 2 people",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²) — 2 pessoas"
+       },
+       "precio": 460000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v2-habitacion-clasica-vista-frente-o-laterales-3-personas",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²) — 3 personas",
+        "en": "Classic Room with Front or Side View (36 m²) — 3 people",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²) — 3 pessoas"
+       },
+       "precio": 700000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v2-habitacion-de-lujo-vista-jardin-2-personas",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 2 personas",
+        "en": "Deluxe Room with Garden View (36 m²) — 2 people",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²) — 2 pessoas"
+       },
+       "precio": 520000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v2-habitacion-de-lujo-vista-jardin-3-personas",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²) — 3 personas",
+        "en": "Deluxe Room with Garden View (36 m²) — 3 people",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²) — 3 pessoas"
+       },
+       "precio": 760000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v2-habitacion-suite-deluxe-dos-ambientes-2-personas",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²) — 2 personas",
+        "en": "Deluxe Suite — two rooms (72 m²) — 2 people",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²) — 2 pessoas"
+       },
+       "precio": 880000,
+       "tags": []
+      },
+      {
+       "id": "escapada-amigas-v2-habitacion-suite-deluxe-dos-ambientes-3-personas",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²) — 3 personas",
+        "en": "Deluxe Suite — two rooms (72 m²) — 3 people",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²) — 3 pessoas"
+       },
+       "precio": 1100000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fines-de-semana-largos",
+   "nombre": {
+    "es": "Fines de Semana Largos",
+    "en": "Long Weekends",
+    "pt": "Fins de semana prolongados"
+   },
+   "nota": {
+    "es": "Incluye: hospedaje para dos personas o Family Plan (*); desayuno buffet para dos personas en Las Vasijas Restaurante; cena buffet en Las Vasijas Restaurante para 2 adultos con vino incluido; acceso a instalaciones de Health & Spa y Jardines; Sheratoons (recreación infantil 6 a 12 años con profesores); cancha multideporte, sala de juegos y plaza de juegos al aire libre; estacionamiento y conexión WiFi.",
+    "en": "Includes: accommodation for two people or Family Plan (*); buffet breakfast for two people at Las Vasijas Restaurant; buffet dinner at Las Vasijas Restaurant for 2 adults with wine included; access to Health & Spa facilities and Gardens; Sheratons (children's recreation 6 to 12 years with teachers); multi-sports court, game room and outdoor playground; parking and WiFi connection.",
+    "pt": "Inclui: acomodação para duas pessoas ou Plano Família (*); café da manhã buffet para duas pessoas no Restaurante Las Vasijas; jantar buffet no Restaurante Las Vasijas para 2 adultos com vinho incluído; acesso às instalações de Saúde e Spa e Jardins; Sheratons (recreação infantil de 6 a 12 anos com professores); quadra poliesportiva, sala de jogos e playground ao ar livre; estacionamento e conexão Wi-Fi."
+   },
+   "destacado": {
+    "es": "Tarifas por noche. Estadía mínima de 2 noches. Late check out 16 hs el día de salida.",
+    "en": "Rates per night. Minimum 2-night stay. Late check-out at 4 PM on departure day.",
+    "pt": "Tarifas por noite. Estadia mínima de 2 noites. Late check-out às 16h no dia da saída."
+   },
+   "tags": [],
+   "foto": "",
+   "grupos": [
+    "findes"
+   ],
+   "desde": "",
+   "hasta": "",
+   "items": [],
+   "vigencias": [
+    {
+     "id": "fines-de-semana-largos-2026-11-06",
+     "nombre": {
+      "es": "Noviembre — Viernes 6 al lunes 9",
+      "en": "November — Friday 6 to Monday 9",
+      "pt": "Novembro — Sexta 6 a segunda 9"
+     },
+     "nota": {},
+     "grupos": [
+      "findes"
+     ],
+     "desde": "2026-11-06",
+     "hasta": "2026-11-09",
+     "items": [
+      {
+       "id": "fines-de-semana-largos-2026-11-06-cls-front",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 360000,
+       "tags": []
+      },
+      {
+       "id": "fines-de-semana-largos-2026-11-06-dlx-garden",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 420000,
+       "tags": []
+      },
+      {
+       "id": "fines-de-semana-largos-2026-11-06-suite-deluxe",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 720000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "fines-de-semana-largos-2026-11-20",
+     "nombre": {
+      "es": "Noviembre — Viernes 20 al lunes 23",
+      "en": "November — Friday 20 to Monday 23",
+      "pt": "Novembro — Sexta 20 a segunda 23"
+     },
+     "nota": {},
+     "grupos": [
+      "findes"
+     ],
+     "desde": "2026-11-20",
+     "hasta": "2026-11-23",
+     "items": [
+      {
+       "id": "fines-de-semana-largos-2026-11-20-cls-front",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 380000,
+       "tags": []
+      },
+      {
+       "id": "fines-de-semana-largos-2026-11-20-dlx-garden",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "fines-de-semana-largos-2026-11-20-suite-deluxe",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 750000,
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "fines-de-semana-largos-2026-12-04",
+     "nombre": {
+      "es": "Diciembre — Viernes 4 al martes 8",
+      "en": "December — Friday 4 to Tuesday 8",
+      "pt": "Dezembro — Sexta 4 a terça 8"
+     },
+     "nota": {},
+     "grupos": [
+      "findes"
+     ],
+     "desde": "2026-12-04",
+     "hasta": "2026-12-08",
+     "items": [
+      {
+       "id": "fines-de-semana-largos-2026-12-04-cls-front",
+       "nombre": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "precio": 380000,
+       "tags": []
+      },
+      {
+       "id": "fines-de-semana-largos-2026-12-04-dlx-garden",
+       "nombre": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "precio": 440000,
+       "tags": []
+      },
+      {
+       "id": "fines-de-semana-largos-2026-12-04-suite-deluxe",
+       "nombre": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "precio": 750000,
+       "tags": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "extras",
+   "nombre": {
+    "es": "Extras",
+    "en": "Extras",
+    "pt": "Extras"
+   },
+   "nota": {
+    "es": "Cargos adicionales aplicables sobre cualquiera de los paquetes de hospedaje.",
+    "en": "Additional charges may apply to any of the accommodation packages.",
+    "pt": "Custos adicionais podem ser aplicados a qualquer um dos pacotes de hospedagem."
+   },
+   "destacado": {},
+   "tags": [],
+   "foto": "",
+   "grupos": [
+    "todos"
+   ],
+   "desde": "",
+   "hasta": "",
+   "items": [
+    {
+     "id": "extra-cama-roll-away",
+     "nombre": {
+      "es": "Cama extra roll away (1,10m x 2m) para menor en Family Plan",
+      "en": "Extra roll away bed (1.10m x 2m) for child in Family Plan",
+      "pt": "Cama extra dobrável (1,10 m x 2 m) para criança no Plano Família"
+     },
+     "descripcion": {
+      "es": "Por noche, + IVA (21%).",
+      "en": "Per night, + VAT (21%).",
+      "pt": "Por noite, mais IVA (21%)."
+     },
+     "precio": 70000,
+     "tags": []
+    },
+    {
+     "id": "extra-tercer-adulto",
+     "nombre": {
+      "es": "Tercer adulto (mayor de 13 años) en habitación",
+      "en": "Third adult (over 13 years old) in room",
+      "pt": "Terceiro adulto (maior de 13 anos) no quarto"
+     },
+     "descripcion": {
+      "es": "Por noche, + IVA (21%). Incluye cama adicional, desayuno buffet y acceso al spa.",
+      "en": "Per night, + VAT (21%). Includes extra bed, buffet breakfast and access to the spa.",
+      "pt": "Por noite, + IVA (21%). Inclui cama extra, café da manhã buffet e acesso ao spa."
+     },
+     "precio": 130000,
+     "tags": []
+    }
+   ],
+   "vigencias": []
+  }
+ ]
+}
