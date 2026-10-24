@@ -13,18 +13,19 @@ var data=null,app=document.getElementById('app'),bar=document.getElementById('ba
 
 var UI={
  es:{indice:'Menú principal',sig:'Siguiente',noexiste:'Esa sección no está disponible.',error:'No pudimos cargar las tarifas. Escribanos a reservas para consultar.',
-     act:'Actualizado',incluye:'Qué incluye',off:'OFF',desde:'Desde',cuotas:function(n,m){return'en '+n+' x '+m+' sin interés'},paquetes:function(n){return n===1?'1 paquete':n+' paquetes'},
+     act:'Actualizado',incluye:'Incluye',off:'OFF',desde:'Desde',cuotas:function(n,m){return'en '+n+' x '+m+' sin interés'},paquetes:function(n){return n===1?'1 paquete':n+' paquetes'},
      reservar:'Reservas',reservarTxt:'Consulte disponibilidad y reserve su estadía.',wa:'WhatsApp',mail:'Escribir un mail',consultar:'Consultar',vacio:'Por el momento no hay tarifas publicadas.'},
  en:{indice:'Main menu',sig:'Next',noexiste:'This section is not available.',error:'Rates could not be loaded. Please contact reservations.',
-     act:'Updated',incluye:'What is included',off:'OFF',desde:'From',cuotas:function(n,m){return'or '+n+' x '+m+' interest-free'},paquetes:function(n){return n===1?'1 package':n+' packages'},
+     act:'Updated',incluye:'Includes',off:'OFF',desde:'From',cuotas:function(n,m){return'or '+n+' x '+m+' interest-free'},paquetes:function(n){return n===1?'1 package':n+' packages'},
      reservar:'Reservations',reservarTxt:'Check availability and book your stay.',wa:'WhatsApp',mail:'Send an email',consultar:'Ask us',vacio:'There are no published rates at the moment.'},
  pt:{indice:'Menu principal',sig:'Próxima',noexiste:'Esta seção não está disponível.',error:'Não foi possível carregar as tarifas. Entre em contato com reservas.',
-     act:'Atualizado',incluye:'O que inclui',off:'OFF',desde:'A partir de',cuotas:function(n,m){return'em '+n+' x '+m+' sem juros'},paquetes:function(n){return n===1?'1 pacote':n+' pacotes'},
+     act:'Atualizado',incluye:'Inclui',off:'OFF',desde:'A partir de',cuotas:function(n,m){return'em '+n+' x '+m+' sem juros'},paquetes:function(n){return n===1?'1 pacote':n+' pacotes'},
      reservar:'Reservas',reservarTxt:'Consulte a disponibilidade e reserve sua estadia.',wa:'WhatsApp',mail:'Enviar e-mail',consultar:'Consultar',vacio:'No momento não há tarifas publicadas.'}};
 var IC={
  flecha:'<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg>',
  atras:'<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="m15 6-6 6 6 6"/></svg>',
  wa:'<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.2-.4.7-1.4.1-.2 0-.3 0-.5l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6a2.7 2.7 0 0 0 1.8-1.2 2.2 2.2 0 0 0 .1-1.3c0-.2-.2-.2-.5-.4z"/></svg>',
+ cal:'<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>',
  mail:'<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>'};
 
 function hoyLocal(){var d=new Date();return d.getFullYear()+'-'+('0'+(d.getMonth()+1)).slice(-2)+'-'+('0'+d.getDate()).slice(-2)}
@@ -106,8 +107,8 @@ function vistaBoton(id){
  var vis=botonesVisibles(),idx=-1;vis.forEach(function(x,k){if(x.b.id===id)idx=k});
  var x=vis[idx];
  bar.hidden=false;
- bar.innerHTML='<div class="bar__in"><a class="volver" href="#">'+IC.atras+esc(UI[lang].indice)+'</a>'+langHTML()+'</div>'+
-  (x?'<div class="bar__ident"><span class="bar__title">'+esc(t(x.b.nombre))+'</span>'+(t(x.b.nota)?'<span class="bar__sub">'+esc(t(x.b.nota))+'</span>':'')+'</div>':'')+
+ bar.innerHTML='<div class="bar__in"><a class="volver" href="#" aria-label="'+esc(UI[lang].indice)+'">'+IC.atras+'<span>'+esc(UI[lang].indice)+'</span></a>'+
+  (x?'<div class="bar__ident"><span class="bar__title">'+esc(t(x.b.nombre))+'</span>'+(t(x.b.nota)?'<span class="bar__sub">'+esc(t(x.b.nota))+'</span>':'')+'</div>':'')+langHTML()+'</div>'+
   (x&&x.pag.length>2?'<nav class="chips" id="chips">'+x.pag.map(function(e){return'<button type="button" data-ir="p-'+esc(e.p.id)+'">'+esc(t(e.p.nombre))+'</button>'}).join('')+'</nav>':'');
  bindLang(bar);
  bar.querySelector('.volver').addEventListener('click',function(e){e.preventDefault();history.pushState(null,'',location.pathname+location.search);route(true)});
@@ -117,12 +118,12 @@ function vistaBoton(id){
  var sig=vis[idx+1];
  app.innerHTML='<div class="wrap"><header class="page__head"><h1 class="page__title">'+esc(t(x.b.nombre))+'</h1>'+
   (t(x.b.nota)?'<p class="page__note">'+fmt(t(x.b.nota))+'</p>':'')+'</header>'+
-  x.pag.map(function(e){return paqueteHTML(e,x)}).join('')+reservarHTML()+
+  '<div class="tarjetas">'+x.pag.map(paqueteHTML).join('')+'</div>'+reservarHTML()+
   (sig?'<nav class="navsec">'+cardHTML(sig,UI[lang].sig)+'</nav>':'')+pieHTML()+'</div>';
  watchTitle();spy();
 }
 
-// Separa la nota del paquete en condiciones (se ven siempre) e "Incluye: a; b; c" (desplegable).
+// Separa la nota del paquete en condiciones ("1 noche. Check in…") y la lista de "Incluye: a; b; c".
 function partirNota(s){
  var m=/(^|[\s.])(Incluye|Includes|Inclui)\s*:\s*/i.exec(s);
  if(!m)return{cond:s,inc:[]};
@@ -130,40 +131,58 @@ function partirNota(s){
  var inc=resto.split(';').map(function(x){x=x.trim().replace(/\.$/,'');return x.charAt(0).toUpperCase()+x.slice(1)}).filter(Boolean);
  return{cond:cond,inc:inc};
 }
-// Precio con el formato de la referencia: lista tachada + % OFF, precio final, cuotas y etiquetas.
-function precioHTML(i,ptags){
- if(i.precio==='CONSULTAR')return'<div class="pr"><div class="pr__now">'+esc(UI[lang].consultar)+'</div></div>';
- var d=i.descuento>0?i.descuento:0,final=Math.round(i.precio*(1-d)),h='<div class="pr">';
- if(d)h+='<div class="pr__old"><s>'+esc(plata(i.precio))+'</s><span class="pill pill--oferta">'+Math.round(d*100)+'% '+UI[lang].off+'</span></div>';
- h+='<div class="pr__now">'+(i.desde?'<span class="pr__desde">'+esc(UI[lang].desde)+'</span>':'')+esc(plata(final))+'</div>';
- var cq=0;(i.tags||[]).concat(ptags||[]).forEach(function(g){var x=tagInfo(g);if(x.cuotas>cq)cq=x.cuotas});
- if(cq>1)h+='<div class="pr__cuotas">'+esc(UI[lang].cuotas(cq,plata(Math.ceil(final/cq))))+'</div>';
- return h+'</div>';
+function telVisible(n){var m=/^549(\d{2})(\d{4})(\d{4})$/.exec(n||'');return m?'+54 9 '+m[1]+' '+m[2]+'-'+m[3]:(n?'+'+n:'')}
+
+// Una fila de precio: nombre a la izquierda; precio final (y el de lista tachado si hay descuento) a la derecha.
+function filaHTML(i){
+ var pr=prHTML(i);
+ var tags=(i.tags||[]).map(function(g){return'<span class="tag">'+esc(t(tagInfo(g).nombre))+'</span>'}).join('');
+ return '<li class="f"><span class="f__name">'+esc(t(i.nombre))+(t(i.descripcion)?'<small class="f__desc">'+fmt(t(i.descripcion))+'</small>':'')+tags+'</span><span class="f__pr">'+pr+'</span></li>';
 }
-function pills(list){return(list||[]).map(function(g){var x=tagInfo(g);return'<span class="pill pill--'+esc(x.estilo||'neutro')+'">'+esc(t(x.nombre))+'</span>'}).join('')}
-function roomsHTML(items,ptags){
- return '<ul class="rooms">'+items.map(function(i){
-  var tags=pills(i.tags);
-  return '<li class="room"><div class="room__name">'+esc(t(i.nombre))+
-   (t(i.descripcion)?'<p class="room__desc">'+fmt(t(i.descripcion))+'</p>':'')+'</div>'+precioHTML(i,ptags)+
-   (tags?'<div class="room__tags">'+tags+'</div>':'')+'</li>'}).join('')+'</ul>';
+
+function prHTML(i){
+ var d=i.descuento>0?i.descuento:0;
+ if(i.precio==='CONSULTAR')return'<span class="f__now">'+esc(UI[lang].consultar)+'</span>';
+ return(d?'<s class="f__old">'+esc(plata(i.precio))+'</s>':'')+'<span class="f__now">'+(i.desde?'<small>'+esc(UI[lang].desde)+' </small>':'')+esc(plata(Math.round(i.precio*(1-d))))+'</span>';
 }
-function norm(s){return String(s).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim()}
-function paqueteHTML(e,x){
- var p=e.p,n=partirNota(t(p.nota)),h='<section class="paq'+(e.extra?' paq--extra':'')+'" id="p-'+esc(p.id)+'">';
- // Si el paquete se llama igual que la página (ej. Fines de semana largos), no se repite el título.
- if(norm(t(p.nombre))!==norm(t(x.b.nombre)))h+='<h2 class="paq__name">'+esc(t(p.nombre))+'</h2>';
- if(n.cond)h+='<p class="paq__cond">'+fmt(n.cond)+'</p>';
- if(t(p.destacado))h+='<p class="paq__dest">'+fmt(t(p.destacado))+'</p>';
- if(p.tags&&p.tags.length)h+='<div class="paq__tags">'+pills(p.tags)+'</div>';
- e.vigs.forEach(function(v){
-  h+='<div class="vig">'+(t(v.nombre)?'<p class="vig__name">'+esc(t(v.nombre))+'</p>':'')+
-   (t(v.nota)?'<p class="vig__note">'+fmt(t(v.nota))+'</p>':'')+roomsHTML(v.items,p.tags)+'</div>';
+// Paquetes con variantes (ej. Amigas: 2 y 3 personas): una fila por habitación y una columna por variante.
+function matrizHTML(items){
+ var vars=[],filas=[],idx={};
+ items.forEach(function(i){
+  var vk=t(i.variante),hk=t(i.hab||i.nombre);
+  if(vars.indexOf(vk)<0)vars.push(vk);
+  if(idx[hk]===undefined){idx[hk]=filas.length;filas.push({nombre:hk,c:{}})}
+  filas[idx[hk]].c[vk]=i;
  });
- if(e.directo)h+=roomsHTML(p.items,p.tags);
- if(n.inc.length)h+='<details class="incluye"><summary>'+esc(UI[lang].incluye)+IC.flecha+'</summary><ul>'+
-  n.inc.map(function(i){return'<li>'+fmt(i)+'</li>'}).join('')+'</ul></details>';
- return h+'</section>';
+ return '<table class="t__matriz"><thead><tr><th></th>'+vars.map(function(v){return'<th>'+esc(v)+'</th>'}).join('')+'</tr></thead><tbody>'+
+  filas.map(function(f){return'<tr><th scope="row">'+esc(f.nombre)+'</th>'+vars.map(function(v){return'<td>'+(f.c[v]?prHTML(f.c[v]):'—')+'</td>'}).join('')+'</tr>'}).join('')+'</tbody></table>';
+}
+
+// Cada paquete × vigencia es una tarjeta completa: nombre, vigencia, condiciones, qué incluye, precios
+// y los datos de reserva. Pensada para entrar en una captura de celular y compartirse por WhatsApp.
+function tarjetaHTML(p,v,items,primera){
+ var n=partirNota(t(p.nota)),c=data.carta;
+ var descs=items.map(function(i){return i.descuento||0}),d=descs[0];
+ var mismoDesc=d>0&&descs.every(function(x){return x===d});
+ var h='<article class="t" data-paq="p-'+esc(p.id)+'"'+(primera?' id="p-'+esc(p.id)+'"':'')+'>';
+ h+='<header class="t__head"><h2 class="t__name">'+esc(t(p.nombre))+'</h2>'+(mismoDesc?'<span class="t__off">'+Math.round(d*100)+'% '+UI[lang].off+'</span>':'')+'</header>';
+ if(v&&t(v.nombre))h+='<p class="t__vig">'+IC.cal+'<span>'+esc(t(v.nombre))+'</span></p>';
+ if(v&&t(v.nota))h+='<p class="t__cond">'+fmt(t(v.nota))+'</p>';
+ if(n.cond)h+='<p class="t__cond">'+fmt(n.cond)+'</p>';
+ if(t(p.destacado))h+='<p class="t__dest">'+fmt(t(p.destacado))+'</p>';
+ if(n.inc.length)h+='<p class="t__inc"><b>'+esc(UI[lang].incluye)+':</b> '+n.inc.map(fmt).join('<i aria-hidden="true"></i>')+'.</p>';
+ h+=items.some(function(i){return i.variante})?matrizHTML(items):'<ul class="t__precios">'+items.map(filaHTML).join('')+'</ul>';
+ var ptags=(p.tags||[]).map(function(g){return t(tagInfo(g).nombre)}).filter(Boolean);
+ if(ptags.length)h+='<p class="t__tags">'+ptags.map(esc).join(' · ')+'</p>';
+ var pie=[(c.hotel||'').replace(/\s+Hotel\b.*$/i,''),t(c.aclaracion),c.whatsapp?'WhatsApp '+telVisible(c.whatsapp):''].filter(Boolean);
+ if(pie.length)h+='<footer class="t__pie">'+pie.map(esc).join(' · ')+'</footer>';
+ return h+'</article>';
+}
+function paqueteHTML(e){
+ var out='',primera=true;
+ e.vigs.forEach(function(v){out+=tarjetaHTML(e.p,v,v.items,primera);primera=false});
+ if(e.directo)out+=tarjetaHTML(e.p,null,e.p.items,primera);
+ return out;
 }
 
 // El nombre del botón aparece en la barra cuando el título grande sale de pantalla.
@@ -181,7 +200,7 @@ function spy(){
  if(window.__spyObs)window.__spyObs.disconnect();
  if(!chips.length||!('IntersectionObserver'in window))return;
  window.__spyObs=new IntersectionObserver(function(es){es.forEach(function(en){if(!en.isIntersecting)return;
-  chips.forEach(function(b){var on=b.dataset.ir===en.target.id;b.setAttribute('aria-current',on);if(on)b.scrollIntoView({block:'nearest',inline:'center'})})})},{rootMargin:'-130px 0px -65% 0px'});
- app.querySelectorAll('.paq').forEach(function(s){window.__spyObs.observe(s)});
+  chips.forEach(function(b){var on=b.dataset.ir===en.target.dataset.paq;b.setAttribute('aria-current',on);if(on)b.scrollIntoView({block:'nearest',inline:'center'})})})},{rootMargin:'-130px 0px -65% 0px'});
+ app.querySelectorAll('.t').forEach(function(s){window.__spyObs.observe(s)});
 }
 })();
