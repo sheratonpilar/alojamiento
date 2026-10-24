@@ -17,7 +17,13 @@
   ],
   "whatsapp": "5491131353098",
   "mail": "reservas@pilar.sheraton.com.ar",
-  "actualizado": "2026-10-23T17:30:35.518Z"
+  "aclaracion": {
+   "es": "Precios + IVA + tasas",
+   "en": "Prices + VAT + taxes",
+   "pt": "Preços + IVA + taxas"
+  },
+  "hotel": "Sheraton Pilar Hotel & Convention Center",
+  "actualizado": "2026-10-24T16:47:19.845Z"
  },
  "simbolo": "$",
  "tags": {
@@ -741,7 +747,17 @@
         "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²) — 2 pessoas"
        },
        "precio": 430000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "variante": {
+        "es": "2 personas",
+        "en": "2 people",
+        "pt": "2 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v1-habitacion-clasica-vista-frente-o-laterales-3-personas",
@@ -751,7 +767,17 @@
         "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²) — 3 pessoas"
        },
        "precio": 650000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "variante": {
+        "es": "3 personas",
+        "en": "3 people",
+        "pt": "3 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v1-habitacion-de-lujo-vista-jardin-2-personas",
@@ -761,7 +787,17 @@
         "pt": "Quarto de Luxo com Vista para o Jardim (36 m²) — 2 pessoas"
        },
        "precio": 515000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "variante": {
+        "es": "2 personas",
+        "en": "2 people",
+        "pt": "2 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v1-habitacion-de-lujo-vista-jardin-3-personas",
@@ -771,7 +807,17 @@
         "pt": "Quarto de Luxo com Vista para o Jardim (36 m²) — 3 pessoas"
        },
        "precio": 710000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "variante": {
+        "es": "3 personas",
+        "en": "3 people",
+        "pt": "3 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v1-habitacion-suite-deluxe-dos-ambientes-2-personas",
@@ -781,7 +827,17 @@
         "pt": "Suíte Deluxe — dois ambientes (72 m²) — 2 pessoas"
        },
        "precio": 860000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "variante": {
+        "es": "2 personas",
+        "en": "2 people",
+        "pt": "2 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v1-habitacion-suite-deluxe-dos-ambientes-3-personas",
@@ -791,7 +847,17 @@
         "pt": "Suíte Deluxe — dois ambientes (72 m²) — 3 pessoas"
        },
        "precio": 1050000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "variante": {
+        "es": "3 personas",
+        "en": "3 people",
+        "pt": "3 pessoas"
+       }
       }
      ]
     },
@@ -817,7 +883,17 @@
         "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²) — 2 pessoas"
        },
        "precio": 460000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "variante": {
+        "es": "2 personas",
+        "en": "2 people",
+        "pt": "2 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v2-habitacion-clasica-vista-frente-o-laterales-3-personas",
@@ -827,7 +903,17 @@
         "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²) — 3 pessoas"
        },
        "precio": 700000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Habitación Clásica Vista Frente o Laterales (36 m²)",
+        "en": "Classic Room with Front or Side View (36 m²)",
+        "pt": "Quarto Clássico com Vista Frontal ou Lateral (36 m²)"
+       },
+       "variante": {
+        "es": "3 personas",
+        "en": "3 people",
+        "pt": "3 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v2-habitacion-de-lujo-vista-jardin-2-personas",
@@ -837,7 +923,17 @@
         "pt": "Quarto de Luxo com Vista para o Jardim (36 m²) — 2 pessoas"
        },
        "precio": 520000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "variante": {
+        "es": "2 personas",
+        "en": "2 people",
+        "pt": "2 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v2-habitacion-de-lujo-vista-jardin-3-personas",
@@ -847,7 +943,17 @@
         "pt": "Quarto de Luxo com Vista para o Jardim (36 m²) — 3 pessoas"
        },
        "precio": 760000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Habitación de Lujo Vista Jardín (36 m²)",
+        "en": "Deluxe Room with Garden View (36 m²)",
+        "pt": "Quarto de Luxo com Vista para o Jardim (36 m²)"
+       },
+       "variante": {
+        "es": "3 personas",
+        "en": "3 people",
+        "pt": "3 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v2-habitacion-suite-deluxe-dos-ambientes-2-personas",
@@ -857,7 +963,17 @@
         "pt": "Suíte Deluxe — dois ambientes (72 m²) — 2 pessoas"
        },
        "precio": 880000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "variante": {
+        "es": "2 personas",
+        "en": "2 people",
+        "pt": "2 pessoas"
+       }
       },
       {
        "id": "escapada-amigas-v2-habitacion-suite-deluxe-dos-ambientes-3-personas",
@@ -867,7 +983,17 @@
         "pt": "Suíte Deluxe — dois ambientes (72 m²) — 3 pessoas"
        },
        "precio": 1100000,
-       "tags": []
+       "tags": [],
+       "hab": {
+        "es": "Suite Deluxe — dos ambientes (72 m²)",
+        "en": "Deluxe Suite — two rooms (72 m²)",
+        "pt": "Suíte Deluxe — dois ambientes (72 m²)"
+       },
+       "variante": {
+        "es": "3 personas",
+        "en": "3 people",
+        "pt": "3 pessoas"
+       }
       }
      ]
     }
